@@ -291,3 +291,6 @@ h2{font-size:44px;line-height:1.1}
   .prevision-entete a{display:inline-block;margin:12px 0 4px}
   .prevision-integree iframe{height:720px}
 }
+.verdict{display:flex;flex-direction:column;gap:10px;padding:28px 32px;background:var(--carte);border-left:0;border-top:3px solid var(--ok)}
+.verdict-phrase{font:700 44px/1.15 var(--titre)}
+@media (max-width:700px){.verdict-phrase{font-size:30px}}
