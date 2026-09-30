@@ -278,3 +278,16 @@ h2{font-size:44px;line-height:1.1}
 @media (max-width:960px){body{overflow-wrap:break-word;-webkit-hyphens:auto;hyphens:auto}.grille3>*,.grille2>*,.calendrier>*,.filets>*{min-width:0}}
 .carte .une-c{font:700 20px/1.3 var(--titre);margin-top:6px}
 .points.mini{width:180px;gap:3px;margin-top:6px}
+.tete-page .actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.prevision-integree{padding:48px 0 80px}
+.prevision-entete{display:flex;justify-content:space-between;align-items:baseline;gap:20px;margin-bottom:18px}
+.prevision-entete h2{margin:0}
+.prevision-entete .meta{margin:8px 0 0}
+.prevision-entete a{color:var(--accent);font-weight:600}
+.prevision-integree iframe{display:block;box-sizing:border-box;width:100%;height:900px;border:1px solid var(--trait);background:#fff}
+@media (max-width:640px){
+  .prevision-integree{padding:36px 0 60px}
+  .prevision-entete{display:block}
+  .prevision-entete a{display:inline-block;margin:12px 0 4px}
+  .prevision-integree iframe{height:720px}
+}
