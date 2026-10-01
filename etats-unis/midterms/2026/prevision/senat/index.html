@@ -61,10 +61,40 @@
 @media(max-width:760px){#readable-races{min-width:1180px}.readable-table-wrap{max-height:none}}
 @media print{#readable-races{font-size:8px}#readable-races th,#readable-races td{padding:6px 4px}}
 </style>
-</head>
+<link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&amp;family=Playfair+Display:wght@400;700;900&amp;family=Montserrat:wght@400;500;600;700&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/><style id="millenaire-skin">:root{--marine:#16294d;--marine2:#1f3a63;--rouge:#a4141f;--fond:#eceff3;--trait:#d4d8de;--gris:#6d7280;--titre:"Baskervville",Georgia,serif;--chiffre:"Playfair Display",Georgia,serif;--txt:"Montserrat",-apple-system,Helvetica,sans-serif;--mono:"IBM Plex Mono",monospace;--pd:#2f5f9e;--pr:#a4141f}
+.mf{max-width:var(--mf-w,1040px);margin:0 auto;color:var(--marine);font:15px/1.5 var(--txt);-webkit-font-smoothing:antialiased;text-align:left}
+.mf *{box-sizing:border-box}
+.mf .tt{background:var(--marine);color:#fff;padding:16px 20px}
+.mf .tt h1{text-align:center;font:700 36px/1 var(--titre);letter-spacing:.5px;text-transform:uppercase;margin:0;color:#fff}
+.mf .langs{display:flex;justify-content:center;flex-wrap:wrap;padding:9px 12px;background:var(--marine2);font:500 11px/1 var(--txt);letter-spacing:.06em}
+.mf .langs a,.mf .langs span{color:#c3ccdb;text-decoration:none;padding:4px 14px;border-right:1px solid #33507f}
+.mf .langs a:last-child,.mf .langs span:last-child{border-right:0}
+.mf .langs a:hover{color:#fff}.mf .langs .cur{color:#fff;font-weight:700}
+.mf .verdict{background:var(--rouge);color:#fff;padding:10px 20px;font:700 13px/1.3 var(--txt);letter-spacing:.09em;text-transform:uppercase;text-align:left}
+.mf .meta{display:block;background:var(--marine);color:#a8b4c8;padding:8px 20px;font:400 11px/1.5 var(--mono);letter-spacing:.06em;text-transform:uppercase}
+.mf .nav{display:flex;flex-wrap:wrap;justify-content:center;gap:4px 18px;background:#fff;border-bottom:1px solid var(--trait);padding:10px 16px;font:500 12px/1.2 var(--txt)}
+.mf .nav a{color:var(--marine);text-decoration:none;border-bottom:1px solid transparent}
+.mf .nav a:hover,.mf .nav a:focus-visible{border-bottom-color:var(--rouge);outline:none}
+.mf .card{background:#fff;border:1px solid var(--trait);margin:14px 20px}
+.mf .card.hero{border:2px solid var(--marine)}
+.mf .pad{padding:22px 24px}
+.mf .hdr{text-align:center;font:400 13px/1 var(--txt);letter-spacing:.18em;text-transform:uppercase;color:var(--marine);padding:20px 0 22px}
+.mf .pods{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;padding-bottom:8px}
+.mf .pod{text-align:center;width:240px}
+.mf .av{width:84px;height:84px;border-radius:50%;margin:0 auto 10px;display:flex;align-items:center;justify-content:center;font:700 13px/1.15 var(--txt);color:#fff;border:3px solid var(--marine);text-align:center;padding:6px}
+.mf .pod .nm{font-weight:600;font-size:13.5px;margin-bottom:6px;min-height:20px}
+.mf .pod .nm small{font-weight:400;color:var(--gris);font-size:11px}
+.mf .pod .big{font:900 46px/1 var(--chiffre)}
+.mf .pod .lab{font:400 9.5px/1.3 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--gris);margin-top:4px}
+.mf .q{border-top:1px solid var(--trait);margin-top:12px;padding-top:10px}
+.mf .q .n2{font:700 24px/1 var(--chiffre);color:var(--marine2)}
+.mf .cnote{font-size:11.5px;color:var(--gris);margin-top:14px;line-height:1.45}
+.mf .upd{text-align:center;margin-top:14px;border-top:1px solid var(--trait);padding-top:12px}
+.mf .dd{color:var(--pd)}.mf .rr{color:var(--pr)}.mf .ii{color:#7a6a4f}
+@media(max-width:640px){.mf .tt h1{font-size:24px}.mf .pods{gap:16px}.mf .pod{width:140px}.mf .av{width:66px;height:66px;font-size:11px}.mf .pod .big{font-size:34px}.mf .card{margin:12px 10px}.mf .pad{padding:16px 14px}}
+body{background:var(--fond)!important}main.page{max-width:1040px!important;margin:0 auto!important;padding:0 20px!important}main.page>section,main.page>.intro{background:#fff;border:1px solid var(--trait);padding:22px 24px!important;margin:14px 0!important;max-width:none!important}main.page>.edition{padding:0 4px;margin:0;border:0!important}main.page>.numbers-ribbon:empty{display:none}main.page>footer{background:none;border:0;padding:20px 4px;color:var(--gris)}@media(max-width:640px){main.page{padding:0 10px!important}main.page>section,main.page>.intro{padding:16px 14px!important}}</style></head>
 <body>
-<header class="masthead"><div class="brandline">LE MILLÉNAIRE · FORECAST</div><h1>Élections américaines 2026<span>Sénat</span></h1><div class="status-band">200 000 SIMULATIONS · STRUCTURE VNEXT + SONDAGES J47_A · PRÉVISION CONDITIONNELLE</div><div class="meta-band"><span id="meta-left">CALCUL : 2026-10-01 · COMMON-STATE-V1 · GRAINE 20260924</span><span>PRÉVISION · ÉDITION DU 1ER OCTOBRE 2026</span></div></header>
-<nav class="topnav"><a href="#carte">Carte</a><a href="#courses-proches">Zone 25–75 %</a><a href="#sondages">Sondages</a><a href="#calculs">Calcul par course</a><a href="#methode">Méthode</a><a class="print" href="javascript:print()">Imprimer ↗</a></nav>
+<div class="mf" id="top"><div class="tt"><h1>Forecast - Élections de mi-mandat américaines 2026 : Sénat</h1></div><div class="langs"><a href="https://forecast.lemillenaire.org/etats-unis/midterms/2026/prevision/">Synthèse</a><a href="https://forecast.lemillenaire.org/etats-unis/midterms/2026/prevision/chambre/">Chambre des représentants</a><span class="cur">Sénat</span></div><div class="verdict">Sénat : aucun camp n&#x27;a la majorité sans les nouveaux indépendants</div><div class="meta">Le Millénaire · 200 000 simulations · mise à jour du 1er octobre 2026 · élection le 3 novembre 2026<span hidden="" id="meta-left">CALCUL : 2026-10-01 · COMMON-STATE-V1 · GRAINE 20260924</span></div><nav class="nav" aria-label="Sections"><a href="#carte">Carte</a><a href="#simulations">Rapport de force</a><a href="#courses-proches">Zone 25–75 %</a><a href="#comparaison">Dernier scrutin</a><a href="#sondages">Sondages</a><a href="#courses">Les 35 courses</a><a href="#calculs">Calcul par course</a><a href="#methode">Méthode</a><a href="#sources">Sources</a></nav><div class="card hero" id="synthese"><div class="pad"><div class="hdr">Chances de contrôler le Sénat</div><div class="pods"><div class="pod"><div class="av" style="background:var(--pd)">D</div><div class="nm">Démocrates <small>avec King et Sanders</small></div><div class="big dd">38,1 %</div><div class="lab">contrôle sans les nouveaux indépendants</div><div class="q"><div class="n2">49,9</div><div class="lab">sièges attendus · 90 % : 47 à 53</div></div></div><div class="pod"><div class="av" style="background:var(--pr)">R</div><div class="nm">Républicains</div><div class="big rr">36,3 %</div><div class="lab">contrôle, vice-président compris</div><div class="q"><div class="n2">48,7</div><div class="lab">sièges attendus · 90 % : 45 à 52</div></div></div><div class="pod"><div class="av" style="background:#8a7c66">I</div><div class="nm">Indépendants <small>Osborn, Achilles, Bengs</small></div><div class="big ii">25,6 %</div><div class="lab">le contrôle dépend de leur choix</div><div class="q"><div class="n2">1,3</div><div class="lab">nouveaux élus attendus · 90 % : 0 à 3</div></div></div></div><p class="cnote upd">S’ils siègent avec les démocrates, ceux-ci contrôlent le Sénat dans 63,7 % des simulations. Il faut 51 sièges aux démocrates, 50 aux républicains grâce au vice-président. Probabilités conditionnelles au duel modélisé dans chaque course. Mise à jour du 1er octobre 2026.</p></div></div></div>
 <main class="page"><div class="intro"><strong>Lire le résultat, puis remonter jusqu’aux courses et aux sources.</strong><p class="footnote">Chaque course oppose deux candidats modélisés. Les probabilités ne valent que pour ce duel : en Alaska et dans le Maine (vote préférentiel), en Idaho, au Nebraska et au Montana (candidats indépendants), l’issue complète du scrutin n’est pas mesurée. Une fiche de calcul détaillée est disponible pour chacune des 35 courses. Les chiffres sont recalculés chaque jour.</p></div><div class="edition"><span id="edition-date">Sondages jusqu’au 2026-10-01 · élection à J−33 · calibration J−47</span></div><noscript><div class="nojs-v3"><strong>Lecture statique.</strong> Les résultats principaux, la comparaison et le tableau des 35 courses restent visibles. Les filtres, scénarios, zooms et exports demandent JavaScript.</div></noscript>
 <div class="numbers-ribbon">
 </div>
