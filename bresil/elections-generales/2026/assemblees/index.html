@@ -72,7 +72,7 @@ body{margin:0;background:var(--fond)}
 .mf .sw{display:inline-block;width:10px;height:10px;margin-right:7px;vertical-align:baseline}.mf .st-tb th{background:none;color:var(--gris);padding:4px;font-size:9.5px}.mf .st-tb td{padding:4px;font-size:12px}
 .mf .lk{font:700 12px var(--txt);color:var(--marine);background:none;border:0;border-bottom:1px solid var(--rouge);padding:0;cursor:pointer}
 .mf .src{font-size:13px;padding-left:18px}.mf .src li{margin:6px 0}
-@media(max-width:760px){.mf .xp-body{grid-template-columns:1fr}.mf .vbtn button{padding:7px 8px;font-size:11px}}
+@media(max-width:760px){.mf .xp-body{grid-template-columns:1fr}.mf .vbtn{box-sizing:border-box;width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));flex:1 1 100%}.mf .vbtn button{min-width:0;white-space:normal;padding:7px 4px;font-size:11px;line-height:1.2}}
 @media print{.mf .xp-tools,.mf .xp-btns,.mf .nav,.mf .langs{display:none}.mf section{break-inside:avoid}body{background:#fff}}
 .mf .v[hidden]{display:none!important}
 .mf .ct{display:inline-block;border:1px solid;padding:1px 6px;font:600 10px var(--txt);letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
