@@ -1,0 +1,5064 @@
+{
+ "mise_a_jour": "2026-10-02",
+ "etats": {
+  "AC": {
+   "gouverneur": {
+    "favori": "MAILZA ASSIS",
+    "parti": "PP",
+    "chances": 0.513,
+    "elu_1er_tour": 0.184,
+    "second_tour": 0.752,
+    "rival": "ALAN RICK",
+    "parti_rival": "REPUBLICANOS"
+   },
+   "senat": [
+    {
+     "candidat": "GLADSON CAMELÍ",
+     "parti": "PP",
+     "chances": 0.692
+    },
+    {
+     "candidat": "MARCIO BITTAR",
+     "parti": "PL",
+     "chances": 0.584
+    },
+    {
+     "candidat": "MARA ROCHA",
+     "parti": "REPUBLICANOS",
+     "chances": 0.327
+    },
+    {
+     "candidat": "JORGE VIANA",
+     "parti": "PT",
+     "chances": 0.31
+    },
+    {
+     "candidat": "PETECÃO",
+     "parti": "PSD",
+     "chances": 0.062
+    },
+    {
+     "candidat": "EDUARDO VELLOSO",
+     "parti": "SOLIDARIEDADE",
+     "chances": 0.025
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      7
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PDT": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 8,
+     "fourchette_90": [
+      4,
+      14
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "AL": {
+   "gouverneur": {
+    "favori": "JHC",
+    "parti": "PSDB",
+    "chances": 0.662,
+    "elu_1er_tour": 0.605,
+    "second_tour": 0.113,
+    "rival": "RENAN FILHO",
+    "parti_rival": "MDB"
+   },
+   "senat": [
+    {
+     "candidat": "ARTHUR LIRA",
+     "parti": "PP",
+     "chances": 0.674
+    },
+    {
+     "candidat": "MARINA JHC",
+     "parti": "PSDB",
+     "chances": 0.648
+    },
+    {
+     "candidat": "RENAN",
+     "parti": "MDB",
+     "chances": 0.521
+    },
+    {
+     "candidat": "DAVI DAVINO FILHO",
+     "parti": "REPUBLICANOS",
+     "chances": 0.145
+    },
+    {
+     "candidat": "DR. WANDERLEY",
+     "parti": "MDB",
+     "chances": 0.013
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      3,
+      8
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "MDB": {
+     "sieges": 15,
+     "fourchette_90": [
+      9,
+      21
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    }
+   }
+  },
+  "AM": {
+   "gouverneur": {
+    "favori": "OMAR AZIZ",
+    "parti": "PSD",
+    "chances": 0.782,
+    "elu_1er_tour": 0.036,
+    "second_tour": 0.964,
+    "rival": "PROFESSORA MARIA DO CARMO",
+    "parti_rival": "PL"
+   },
+   "senat": [
+    {
+     "candidat": "EDUARDO BRAGA",
+     "parti": "MDB",
+     "chances": 0.846
+    },
+    {
+     "candidat": "CAPITÃO ALBERTO NETO",
+     "parti": "PL",
+     "chances": 0.66
+    },
+    {
+     "candidat": "WILSON LIMA",
+     "parti": "UNIÃO",
+     "chances": 0.26
+    },
+    {
+     "candidat": "PLINIO VALÉRIO",
+     "parti": "PSDB",
+     "chances": 0.234
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   },
+   "assemblee": {
+    "AGIR": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "AVANTE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PODE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   }
+  },
+  "AP": {
+   "gouverneur": {
+    "favori": "DR. FURLAN",
+    "parti": "PSD",
+    "chances": 0.977,
+    "elu_1er_tour": 0.894,
+    "second_tour": 0.092,
+    "rival": "CLÉCIO",
+    "parti_rival": "UNIÃO"
+   },
+   "senat": [
+    {
+     "candidat": "RAYSSA FURLAN",
+     "parti": "PODE",
+     "chances": 0.861
+    },
+    {
+     "candidat": "RANDOLFE",
+     "parti": "PT",
+     "chances": 0.485
+    },
+    {
+     "candidat": "LUCAS BARRETO",
+     "parti": "PSD",
+     "chances": 0.432
+    },
+    {
+     "candidat": "ALLINY SERRÃO",
+     "parti": "UNIÃO",
+     "chances": 0.117
+    },
+    {
+     "candidat": "ACÁCIO FAVACHO",
+     "parti": "MDB",
+     "chances": 0.102
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PDT": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PDT": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "BA": {
+   "gouverneur": {
+    "favori": "ACM NETO",
+    "parti": "UNIÃO",
+    "chances": 0.559,
+    "elu_1er_tour": 0.416,
+    "second_tour": 0.249,
+    "rival": "JERÔNIMO RODRIGUES",
+    "parti_rival": "PT"
+   },
+   "senat": [
+    {
+     "candidat": "RUI COSTA",
+     "parti": "PT",
+     "chances": 0.794
+    },
+    {
+     "candidat": "JAQUES WAGNER",
+     "parti": "PT",
+     "chances": 0.601
+    },
+    {
+     "candidat": "JOÃO ROMA",
+     "parti": "PL",
+     "chances": 0.331
+    },
+    {
+     "candidat": "ANGELO CORONEL",
+     "parti": "REPUBLICANOS",
+     "chances": 0.274
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 8,
+     "fourchette_90": [
+      4,
+      15
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 8,
+     "fourchette_90": [
+      4,
+      16
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 17,
+     "fourchette_90": [
+      8,
+      29
+     ]
+    },
+    "PDT": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 12,
+     "fourchette_90": [
+      6,
+      23
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSD": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      18
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    }
+   }
+  },
+  "CE": {
+   "gouverneur": {
+    "favori": "CIRO GOMES",
+    "parti": "PSDB",
+    "chances": 0.548,
+    "elu_1er_tour": 0.474,
+    "second_tour": 0.122,
+    "rival": "ELMANO DE FREITAS",
+    "parti_rival": "PT"
+   },
+   "senat": [
+    {
+     "candidat": "CID GOMES",
+     "parti": "PSB",
+     "chances": 0.739
+    },
+    {
+     "candidat": "CAPITÃO WAGNER",
+     "parti": "UNIÃO",
+     "chances": 0.543
+    },
+    {
+     "candidat": "LUIZIANNE",
+     "parti": "REDE",
+     "chances": 0.521
+    },
+    {
+     "candidat": "ALCIDES FERNANDES",
+     "parti": "PL",
+     "chances": 0.197
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "MDB": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      18
+     ]
+    },
+    "PDT": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSB": {
+     "sieges": 8,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    }
+   }
+  },
+  "DF": {
+   "gouverneur": {
+    "favori": "CELINA LEÃO",
+    "parti": "PP",
+    "chances": 0.941,
+    "elu_1er_tour": 0.25,
+    "second_tour": 0.75,
+    "rival": "ARRUDA",
+    "parti_rival": "PSD"
+   },
+   "senat": [
+    {
+     "candidat": "MICHELLE BOLSONARO",
+     "parti": "PL",
+     "chances": 0.791
+    },
+    {
+     "candidat": "LEILA DO VÔLEI",
+     "parti": "PDT",
+     "chances": 0.503
+    },
+    {
+     "candidat": "BIA KICIS",
+     "parti": "PL",
+     "chances": 0.413
+    },
+    {
+     "candidat": "ERIKA KOKAY",
+     "parti": "PT",
+     "chances": 0.283
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      0,
+      6
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "DEMOCRATA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "ES": {
+   "gouverneur": {
+    "favori": "RICARDO FERRAÇO",
+    "parti": "MDB",
+    "chances": 0.68,
+    "elu_1er_tour": 0.182,
+    "second_tour": 0.729,
+    "rival": "LORENZO PAZOLINI",
+    "parti_rival": "REPUBLICANOS"
+   },
+   "senat": [
+    {
+     "candidat": "RENATO CASAGRANDE",
+     "parti": "PSB",
+     "chances": 0.955
+    },
+    {
+     "candidat": "FABIANO CONTARATO",
+     "parti": "PT",
+     "chances": 0.321
+    },
+    {
+     "candidat": "SERGIO MENEGUELLI",
+     "parti": "PSD",
+     "chances": 0.298
+    },
+    {
+     "candidat": "MAGUINHA MALTA",
+     "parti": "PL",
+     "chances": 0.182
+    },
+    {
+     "candidat": "EVAIR DE MELO",
+     "parti": "REPUBLICANOS",
+     "chances": 0.117
+    },
+    {
+     "candidat": "ROSE DE FREITAS",
+     "parti": "MDB",
+     "chances": 0.103
+    },
+    {
+     "candidat": "MARCOS DO VAL",
+     "parti": "AVANTE",
+     "chances": 0.023
+    }
+   ],
+   "chambre": {
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   },
+   "assemblee": {
+    "AGIR": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "DC": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PODE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    }
+   }
+  },
+  "GO": {
+   "gouverneur": {
+    "favori": "DANIEL VILELA",
+    "parti": "MDB",
+    "chances": 0.997,
+    "elu_1er_tour": 0.363,
+    "second_tour": 0.632,
+    "rival": "MARCONI PERILLO",
+    "parti_rival": "PSDB"
+   },
+   "senat": [
+    {
+     "candidat": "GRACINHA CAIADO",
+     "parti": "UNIÃO",
+     "chances": 0.793
+    },
+    {
+     "candidat": "GUSTAVO GAYER",
+     "parti": "PL",
+     "chances": 0.644
+    },
+    {
+     "candidat": "DR. ZACHARIAS CALIL",
+     "parti": "MDB",
+     "chances": 0.328
+    },
+    {
+     "candidat": "GUSTAVO MENDANHA",
+     "parti": "PRD",
+     "chances": 0.131
+    },
+    {
+     "candidat": "VANDERLAN CARDOSO",
+     "parti": "PSD",
+     "chances": 0.074
+    },
+    {
+     "candidat": "CINTIA DIAS",
+     "parti": "PSOL",
+     "chances": 0.019
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "AGIR": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "MDB": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      13
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSD": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "DEMOCRATA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "MA": {
+   "gouverneur": {
+    "favori": "EDUARDO BRAIDE",
+    "parti": "PSD",
+    "chances": 0.869,
+    "elu_1er_tour": 0.156,
+    "second_tour": 0.725,
+    "rival": "ORLEANS BRANDÃO",
+    "parti_rival": "MDB"
+   },
+   "senat": [
+    {
+     "candidat": "ROSEANA SARNEY",
+     "parti": "MDB",
+     "chances": 0.7
+    },
+    {
+     "candidat": "FUFUCA",
+     "parti": "PP",
+     "chances": 0.445
+    },
+    {
+     "candidat": "LAHESIO BONFIM",
+     "parti": "NOVO",
+     "chances": 0.359
+    },
+    {
+     "candidat": "WEVERTON ROCHA",
+     "parti": "PDT",
+     "chances": 0.278
+    },
+    {
+     "candidat": "ELIZIANE GAMA",
+     "parti": "PT",
+     "chances": 0.141
+    },
+    {
+     "candidat": "DR.HILTON GONÇALO",
+     "parti": "MOBILIZA",
+     "chances": 0.047
+    },
+    {
+     "candidat": "CIDÔNIO GONÇALVES",
+     "parti": "PL",
+     "chances": 0.029
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "MDB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      7
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSD": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   },
+   "assemblee": {
+    "MDB": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      17
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      13
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PSB": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "PSD": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    }
+   }
+  },
+  "MG": {
+   "gouverneur": {
+    "favori": "CLEITINHO AZEVEDO",
+    "parti": "REPUBLICANOS",
+    "chances": 0.984,
+    "elu_1er_tour": 0.309,
+    "second_tour": 0.691,
+    "rival": "PATRUS ANANIAS",
+    "parti_rival": "PT"
+   },
+   "senat": [
+    {
+     "candidat": "MARÍLIA CAMPOS",
+     "parti": "PT",
+     "chances": 0.63
+    },
+    {
+     "candidat": "CARLOS VIANA",
+     "parti": "PSD",
+     "chances": 0.468
+    },
+    {
+     "candidat": "DOMINGOS SÁVIO",
+     "parti": "PL",
+     "chances": 0.371
+    },
+    {
+     "candidat": "AÉCIO NEVES",
+     "parti": "PSDB",
+     "chances": 0.358
+    },
+    {
+     "candidat": "MARCELO ARO",
+     "parti": "PP",
+     "chances": 0.134
+    },
+    {
+     "candidat": "ÁUREA CAROLINA",
+     "parti": "PSOL",
+     "chances": 0.036
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 8,
+     "fourchette_90": [
+      4,
+      16
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 14,
+     "fourchette_90": [
+      7,
+      24
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSD": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "NOVO": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 14,
+     "fourchette_90": [
+      6,
+      26
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 10,
+     "fourchette_90": [
+      5,
+      21
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PODE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      19
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 10,
+     "fourchette_90": [
+      5,
+      20
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "DEMOCRATA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "MS": {
+   "gouverneur": {
+    "favori": "EDUARDO RIEDEL",
+    "parti": "PP",
+    "chances": 0.999,
+    "elu_1er_tour": 0.777,
+    "second_tour": 0.223,
+    "rival": "FÁBIO TRAD",
+    "parti_rival": "PT"
+   },
+   "senat": [
+    {
+     "candidat": "REINALDO AZAMBUJA",
+     "parti": "PL",
+     "chances": 0.912
+    },
+    {
+     "candidat": "CAPITÃO CONTAR",
+     "parti": "PL",
+     "chances": 0.816
+    },
+    {
+     "candidat": "VANDER LOUBET",
+     "parti": "PT",
+     "chances": 0.177
+    },
+    {
+     "candidat": "SORAYA",
+     "parti": "PSB",
+     "chances": 0.095
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    }
+   }
+  },
+  "MT": {
+   "gouverneur": {
+    "favori": "OTAVIANO PIVETTA",
+    "parti": "REPUBLICANOS",
+    "chances": 0.675,
+    "elu_1er_tour": 0.219,
+    "second_tour": 0.753,
+    "rival": "WELLINGTON FAGUNDES",
+    "parti_rival": "PL"
+   },
+   "senat": [
+    {
+     "candidat": "MAURO MENDES",
+     "parti": "UNIÃO",
+     "chances": 0.911
+    },
+    {
+     "candidat": "JANAINA RIVA",
+     "parti": "MDB",
+     "chances": 0.618
+    },
+    {
+     "candidat": "ZÉ MEDEIROS",
+     "parti": "PL",
+     "chances": 0.306
+    },
+    {
+     "candidat": "FÁVARO",
+     "parti": "PSD",
+     "chances": 0.1
+    },
+    {
+     "candidat": "PEDRO TAQUES",
+     "parti": "PSB",
+     "chances": 0.063
+    }
+   ],
+   "chambre": {
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "MDB": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PODE": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "PA": {
+   "gouverneur": {
+    "favori": "DR. DANIEL",
+    "parti": "PODE",
+    "chances": 0.517,
+    "elu_1er_tour": 0.432,
+    "second_tour": 0.14,
+    "rival": "HANA GHASSAN",
+    "parti_rival": "MDB"
+   },
+   "senat": [
+    {
+     "candidat": "HELDER",
+     "parti": "MDB",
+     "chances": 0.828
+    },
+    {
+     "candidat": "DELEGADO ÉDER MAURO",
+     "parti": "PL",
+     "chances": 0.572
+    },
+    {
+     "candidat": "CHICÃO",
+     "parti": "UNIÃO",
+     "chances": 0.289
+    },
+    {
+     "candidat": "ZEQUINHA MARINHO",
+     "parti": "PODE",
+     "chances": 0.221
+    },
+    {
+     "candidat": "CELSO SABINO",
+     "parti": "PDT",
+     "chances": 0.089
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 13,
+     "fourchette_90": [
+      7,
+      22
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "PDT": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PODE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   }
+  },
+  "PB": {
+   "gouverneur": {
+    "favori": "LUCAS RIBEIRO",
+    "parti": "PP",
+    "chances": 0.998,
+    "elu_1er_tour": 0.976,
+    "second_tour": 0.023,
+    "rival": "EFRAIM FILHO",
+    "parti_rival": "PL"
+   },
+   "senat": [
+    {
+     "candidat": "JOAO AZEVÊDO",
+     "parti": "PSB",
+     "chances": 0.965
+    },
+    {
+     "candidat": "VENEZIANO",
+     "parti": "MDB",
+     "chances": 0.733
+    },
+    {
+     "candidat": "NABOR",
+     "parti": "REPUBLICANOS",
+     "chances": 0.26
+    },
+    {
+     "candidat": "DR. MARCELO QUEIROGA",
+     "parti": "PL",
+     "chances": 0.038
+    }
+   ],
+   "chambre": {
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSD": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    }
+   },
+   "assemblee": {
+    "MDB": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      9
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 13,
+     "fourchette_90": [
+      6,
+      21
+     ]
+    },
+    "PSB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    }
+   }
+  },
+  "PE": {
+   "gouverneur": {
+    "favori": "RAQUEL LYRA",
+    "parti": "PSD",
+    "chances": 0.705,
+    "elu_1er_tour": 0.506,
+    "second_tour": 0.413,
+    "rival": "JOÃO CAMPOS",
+    "parti_rival": "PSB"
+   },
+   "senat": [
+    {
+     "candidat": "MARÍLIA ARRAES",
+     "parti": "PDT",
+     "chances": 0.816
+    },
+    {
+     "candidat": "HUMBERTO COSTA",
+     "parti": "PT",
+     "chances": 0.659
+    },
+    {
+     "candidat": "MENDONÇA FILHO",
+     "parti": "PL",
+     "chances": 0.337
+    },
+    {
+     "candidat": "EDUARDO DA FONTE",
+     "parti": "PP",
+     "chances": 0.166
+    },
+    {
+     "candidat": "TÚLIO GADÊLHA",
+     "parti": "PSD",
+     "chances": 0.021
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "PSB": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    },
+    "PL": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 12,
+     "fourchette_90": [
+      6,
+      21
+     ]
+    },
+    "PSB": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      18
+     ]
+    },
+    "PSD": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PODE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    }
+   }
+  },
+  "PI": {
+   "gouverneur": {
+    "favori": "RAFAEL FONTELES",
+    "parti": "PT",
+    "chances": 0.998,
+    "elu_1er_tour": 0.965,
+    "second_tour": 0.035,
+    "rival": "JOEL RODRIGUES",
+    "parti_rival": "PP"
+   },
+   "senat": [
+    {
+     "candidat": "MARCELO CASTRO",
+     "parti": "MDB",
+     "chances": 0.786
+    },
+    {
+     "candidat": "JÚLIO CÉSAR O JULIM DO LULA",
+     "parti": "PSD",
+     "chances": 0.603
+    },
+    {
+     "candidat": "CIRO NOGUEIRA",
+     "parti": "PP",
+     "chances": 0.563
+    },
+    {
+     "candidat": "TIAGO JUNQUEIRA",
+     "parti": "PL",
+     "chances": 0.048
+    }
+   ],
+   "chambre": {
+    "FE BRASIL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   },
+   "assemblee": {
+    "MDB": {
+     "sieges": 10,
+     "fourchette_90": [
+      5,
+      18
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 12,
+     "fourchette_90": [
+      6,
+      20
+     ]
+    },
+    "PL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   }
+  },
+  "PR": {
+   "gouverneur": {
+    "favori": "SERGIO MORO",
+    "parti": "PL",
+    "chances": 0.931,
+    "elu_1er_tour": 0.386,
+    "second_tour": 0.614,
+    "rival": "REQUIÃO FILHO",
+    "parti_rival": "PDT"
+   },
+   "senat": [
+    {
+     "candidat": "DELTAN DALLAGNOL",
+     "parti": "NOVO",
+     "chances": 0.611
+    },
+    {
+     "candidat": "FILIPE BARROS",
+     "parti": "PL",
+     "chances": 0.449
+    },
+    {
+     "candidat": "ALEXANDRE CURI",
+     "parti": "REPUBLICANOS",
+     "chances": 0.426
+    },
+    {
+     "candidat": "GLEISI",
+     "parti": "PT",
+     "chances": 0.351
+    },
+    {
+     "candidat": "CRISTINA GRAEML",
+     "parti": "PSD",
+     "chances": 0.107
+    },
+    {
+     "candidat": "DR ROSINHA",
+     "parti": "PT",
+     "chances": 0.056
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "PL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "PODE": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSD": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      17
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    },
+    "PSD": {
+     "sieges": 15,
+     "fourchette_90": [
+      7,
+      26
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  "RJ": {
+   "gouverneur": {
+    "favori": "EDUARDO PAES",
+    "parti": "PSD",
+    "chances": 0.912,
+    "elu_1er_tour": 0.372,
+    "second_tour": 0.604,
+    "rival": "DOUGLAS RUAS",
+    "parti_rival": "PL"
+   },
+   "senat": [
+    {
+     "candidat": "BENEDITA DA SILVA",
+     "parti": "PT",
+     "chances": 0.753
+    },
+    {
+     "candidat": "CARLOS JORDY",
+     "parti": "PL",
+     "chances": 0.42
+    },
+    {
+     "candidat": "CARLOS PORTINHO",
+     "parti": "PL",
+     "chances": 0.359
+    },
+    {
+     "candidat": "MARCELO CRIVELLA",
+     "parti": "REPUBLICANOS",
+     "chances": 0.212
+    },
+    {
+     "candidat": "PEDRO PAULO",
+     "parti": "PSD",
+     "chances": 0.187
+    },
+    {
+     "candidat": "MONICA BENICIO",
+     "parti": "PSOL",
+     "chances": 0.057
+    },
+    {
+     "candidat": "WAGUINHO",
+     "parti": "REPUBLICANOS",
+     "chances": 0.012
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "PDT": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      17
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    }
+   },
+   "assemblee": {
+    "AGIR": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "AVANTE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "DC": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "NOVO": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 16,
+     "fourchette_90": [
+      7,
+      28
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 10,
+     "fourchette_90": [
+      4,
+      19
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    }
+   }
+  },
+  "RN": {
+   "gouverneur": {
+    "favori": "ALLYSON",
+    "parti": "UNIÃO",
+    "chances": 0.933,
+    "elu_1er_tour": 0.287,
+    "second_tour": 0.711,
+    "rival": "ÁLVARO DIAS",
+    "parti_rival": "PL"
+   },
+   "senat": [
+    {
+     "candidat": "STYVENSON VALENTIM",
+     "parti": "PODE",
+     "chances": 0.898
+    },
+    {
+     "candidat": "ZENAIDE MAIA",
+     "parti": "PSD",
+     "chances": 0.683
+    },
+    {
+     "candidat": "SAMANDA DE LULA",
+     "parti": "PT",
+     "chances": 0.174
+    },
+    {
+     "candidat": "RAFAEL MOTTA",
+     "parti": "PDT",
+     "chances": 0.128
+    },
+    {
+     "candidat": "CORONEL HÉLIO",
+     "parti": "PL",
+     "chances": 0.117
+    }
+   ],
+   "chambre": {
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      6
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "PL": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    }
+   }
+  },
+  "RO": {
+   "gouverneur": {
+    "favori": "MARCOS ROGÉRIO",
+    "parti": "PL",
+    "chances": 0.913,
+    "elu_1er_tour": 0.255,
+    "second_tour": 0.745,
+    "rival": "ADAILTON FURIA",
+    "parti_rival": "PSD"
+   },
+   "senat": [
+    {
+     "candidat": "DR. FERNANDO MÁXIMO",
+     "parti": "PL",
+     "chances": 0.8
+    },
+    {
+     "candidat": "BRUNO SCHEID",
+     "parti": "PL",
+     "chances": 0.456
+    },
+    {
+     "candidat": "SÍLVIA CRISTINA",
+     "parti": "PP",
+     "chances": 0.453
+    },
+    {
+     "candidat": "MARIANA CARVALHO",
+     "parti": "REPUBLICANOS",
+     "chances": 0.211
+    },
+    {
+     "candidat": "ACIR GURGACZ",
+     "parti": "PDT",
+     "chances": 0.081
+    }
+   ],
+   "chambre": {
+    "PL": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      5
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSD": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    }
+   },
+   "assemblee": {
+    "AVANTE": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "MOBILIZA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   }
+  },
+  "RR": {
+   "gouverneur": {
+    "favori": "ARTHUR HENRIQUE",
+    "parti": "PL",
+    "chances": 0.996,
+    "elu_1er_tour": 0.685,
+    "second_tour": 0.314,
+    "rival": "SOLDADO SAMPAIO",
+    "parti_rival": "REPUBLICANOS"
+   },
+   "senat": [
+    {
+     "candidat": "TERESA SURITA",
+     "parti": "MDB",
+     "chances": 0.738
+    },
+    {
+     "candidat": "NICOLETTI",
+     "parti": "PL",
+     "chances": 0.588
+    },
+    {
+     "candidat": "HELENA DA ASATUR",
+     "parti": "PSD",
+     "chances": 0.361
+    },
+    {
+     "candidat": "CHICO RODRIGUES",
+     "parti": "PSB",
+     "chances": 0.3
+    },
+    {
+     "candidat": "HELIO FERNANDO BARBOSA LOPES",
+     "parti": "PL",
+     "chances": 0.013
+    }
+   ],
+   "chambre": {
+    "MDB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      2,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "PODE": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      8
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 8,
+     "fourchette_90": [
+      4,
+      14
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "AGIR": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   }
+  },
+  "RS": {
+   "gouverneur": {
+    "favori": "ZUCCO",
+    "parti": "PL",
+    "chances": 0.678,
+    "elu_1er_tour": 0.208,
+    "second_tour": 0.791,
+    "rival": "JULIANA BRIZOLA",
+    "parti_rival": "PDT"
+   },
+   "senat": [
+    {
+     "candidat": "MARCEL VAN HATTEM",
+     "parti": "NOVO",
+     "chances": 0.586
+    },
+    {
+     "candidat": "MANUELA D ÁVILA",
+     "parti": "PSOL",
+     "chances": 0.513
+    },
+    {
+     "candidat": "SANDERSON",
+     "parti": "PL",
+     "chances": 0.392
+    },
+    {
+     "candidat": "PIMENTA",
+     "parti": "PT",
+     "chances": 0.301
+    },
+    {
+     "candidat": "RIGOTTO",
+     "parti": "MDB",
+     "chances": 0.208
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "MDB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 6,
+     "fourchette_90": [
+      3,
+      12
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PODE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "PSB": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "MDB": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 10,
+     "fourchette_90": [
+      5,
+      19
+     ]
+    },
+    "PDT": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      17
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSD": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    }
+   }
+  },
+  "SC": {
+   "gouverneur": {
+    "favori": "JORGINHO MELLO",
+    "parti": "PL",
+    "chances": 0.999,
+    "elu_1er_tour": 0.792,
+    "second_tour": 0.208,
+    "rival": "JOÃO RODRIGUES",
+    "parti_rival": "PSD"
+   },
+   "senat": [
+    {
+     "candidat": "CAROL DE TONI",
+     "parti": "PL",
+     "chances": 0.712
+    },
+    {
+     "candidat": "ESPERIDIÃO AMIN",
+     "parti": "PP",
+     "chances": 0.572
+    },
+    {
+     "candidat": "CARLOS BOLSONARO",
+     "parti": "PL",
+     "chances": 0.52
+    },
+    {
+     "candidat": "DÉCIO LIMA",
+     "parti": "PT",
+     "chances": 0.131
+    },
+    {
+     "candidat": "LUNELLI",
+     "parti": "MDB",
+     "chances": 0.043
+    },
+    {
+     "candidat": "AFRÂNIO BOPPRÉ",
+     "parti": "PSOL",
+     "chances": 0.02
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "MDB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSD": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "MDB": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 10,
+     "fourchette_90": [
+      5,
+      19
+     ]
+    },
+    "PODE": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "PSD": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    }
+   }
+  },
+  "SE": {
+   "gouverneur": {
+    "favori": "FÁBIO",
+    "parti": "PSD",
+    "chances": 0.817,
+    "elu_1er_tour": 0.462,
+    "second_tour": 0.46,
+    "rival": "VALMIR DE FRANCISQUINHO",
+    "parti_rival": "REPUBLICANOS"
+   },
+   "senat": [
+    {
+     "candidat": "DELEGADO ANDRÉ DAVID",
+     "parti": "REPUBLICANOS",
+     "chances": 0.516
+    },
+    {
+     "candidat": "ROGERIO CARVALHO",
+     "parti": "PT",
+     "chances": 0.403
+    },
+    {
+     "candidat": "DELEGADO ALESSANDRO",
+     "parti": "MDB",
+     "chances": 0.395
+    },
+    {
+     "candidat": "ANDRÉ MOURA",
+     "parti": "UNIÃO",
+     "chances": 0.373
+    },
+    {
+     "candidat": "EDUARDO AMORIM",
+     "parti": "REPUBLICANOS",
+     "chances": 0.142
+    },
+    {
+     "candidat": "EDVALDO",
+     "parti": "PDT",
+     "chances": 0.099
+    },
+    {
+     "candidat": "RODRIGO VALADARES",
+     "parti": "PL",
+     "chances": 0.058
+    },
+    {
+     "candidat": "CORONEL ROCHA",
+     "parti": "PL",
+     "chances": 0.013
+    }
+   ],
+   "chambre": {
+    "FE BRASIL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      2,
+      6
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    }
+   },
+   "assemblee": {
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 7,
+     "fourchette_90": [
+      4,
+      13
+     ]
+    },
+    "PSB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PSD": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    }
+   }
+  },
+  "SP": {
+   "gouverneur": {
+    "favori": "TARCÍSIO",
+    "parti": "REPUBLICANOS",
+    "chances": 0.96,
+    "elu_1er_tour": 0.778,
+    "second_tour": 0.207,
+    "rival": "FERNANDO HADDAD",
+    "parti_rival": "PT"
+   },
+   "senat": [
+    {
+     "candidat": "GUILHERME DERRITE",
+     "parti": "PP",
+     "chances": 0.548
+    },
+    {
+     "candidat": "MARINA SILVA",
+     "parti": "REDE",
+     "chances": 0.518
+    },
+    {
+     "candidat": "SIMONE TEBET",
+     "parti": "PSB",
+     "chances": 0.501
+    },
+    {
+     "candidat": "ANDRÉ DO PRADO",
+     "parti": "PL",
+     "chances": 0.395
+    },
+    {
+     "candidat": "SALLES",
+     "parti": "NOVO",
+     "chances": 0.037
+    }
+   ],
+   "chambre": {
+    "AVANTE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PSDB CIDADANIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "MDB": {
+     "sieges": 4,
+     "fourchette_90": [
+      1,
+      9
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      18
+     ]
+    },
+    "PDT": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PL": {
+     "sieges": 17,
+     "fourchette_90": [
+      8,
+      29
+     ]
+    },
+    "PODE": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      14
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    },
+    "PSB": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "PSD": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      13
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "MISSÃO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      11
+     ]
+    },
+    "MDB": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      10
+     ]
+    },
+    "NOVO": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 16,
+     "fourchette_90": [
+      7,
+      30
+     ]
+    },
+    "PDT": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 16,
+     "fourchette_90": [
+      8,
+      31
+     ]
+    },
+    "PODE": {
+     "sieges": 5,
+     "fourchette_90": [
+      2,
+      12
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 11,
+     "fourchette_90": [
+      5,
+      22
+     ]
+    },
+    "PSB": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PSD": {
+     "sieges": 7,
+     "fourchette_90": [
+      3,
+      15
+     ]
+    },
+    "PSOL REDE": {
+     "sieges": 6,
+     "fourchette_90": [
+      2,
+      13
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 9,
+     "fourchette_90": [
+      4,
+      18
+     ]
+    }
+   }
+  },
+  "TO": {
+   "gouverneur": {
+    "favori": "PROFESSORA DORINHA",
+    "parti": "UNIÃO",
+    "chances": 1.0,
+    "elu_1er_tour": 0.948,
+    "second_tour": 0.052,
+    "rival": "LAUREZ MOREIRA",
+    "parti_rival": "PSD"
+   },
+   "senat": [
+    {
+     "candidat": "EDUARDO GOMES",
+     "parti": "PL",
+     "chances": 0.797
+    },
+    {
+     "candidat": "ALEXANDRE GUIMARÃES",
+     "parti": "MDB",
+     "chances": 0.455
+    },
+    {
+     "candidat": "GAGUIM",
+     "parti": "UNIÃO",
+     "chances": 0.366
+    },
+    {
+     "candidat": "ELI BORGES",
+     "parti": "REPUBLICANOS",
+     "chances": 0.164
+    },
+    {
+     "candidat": "PAULO MOURÃO",
+     "parti": "PT",
+     "chances": 0.091
+    },
+    {
+     "candidat": "VANDERLEI LUXEMBURGO",
+     "parti": "PODE",
+     "chances": 0.082
+    },
+    {
+     "candidat": "RONALDO DIMAS",
+     "parti": "PODE",
+     "chances": 0.044
+    }
+   ],
+   "chambre": {
+    "PSDB CIDADANIA": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "PL": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      2
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      6
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      5
+     ]
+    }
+   },
+   "assemblee": {
+    "PSDB CIDADANIA": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "MDB": {
+     "sieges": 1,
+     "fourchette_90": [
+      0,
+      3
+     ]
+    },
+    "RENOVAÇÃO SOLIDÁRIA": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "FE BRASIL": {
+     "sieges": 2,
+     "fourchette_90": [
+      1,
+      4
+     ]
+    },
+    "PL": {
+     "sieges": 3,
+     "fourchette_90": [
+      1,
+      7
+     ]
+    },
+    "PODE": {
+     "sieges": 0,
+     "fourchette_90": [
+      0,
+      1
+     ]
+    },
+    "PSD": {
+     "sieges": 2,
+     "fourchette_90": [
+      0,
+      4
+     ]
+    },
+    "REPUBLICANOS": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      8
+     ]
+    },
+    "UNIÃO PROGRESSISTA": {
+     "sieges": 4,
+     "fourchette_90": [
+      2,
+      9
+     ]
+    }
+   }
+  }
+ },
+ "national": {
+  "chambre": {
+   "UNIÃO PROGRESSISTA": {
+    "sieges_attendus": 106.3,
+    "fourchette_90": [
+     64,
+     156
+    ],
+    "premiere_force": 0.558
+   },
+   "PL": {
+    "sieges_attendus": 88.3,
+    "fourchette_90": [
+     50,
+     135
+    ],
+    "premiere_force": 0.273
+   },
+   "FE BRASIL": {
+    "sieges_attendus": 75.0,
+    "fourchette_90": [
+     40,
+     118
+    ],
+    "premiere_force": 0.148
+   },
+   "REPUBLICANOS": {
+    "sieges_attendus": 50.4,
+    "fourchette_90": [
+     25,
+     82
+    ],
+    "premiere_force": 0.015
+   },
+   "PSD": {
+    "sieges_attendus": 43.1,
+    "fourchette_90": [
+     21,
+     71
+    ],
+    "premiere_force": 0.004
+   },
+   "MDB": {
+    "sieges_attendus": 36.5,
+    "fourchette_90": [
+     17,
+     60
+    ],
+    "premiere_force": 0.001
+   },
+   "PODE": {
+    "sieges_attendus": 30.1,
+    "fourchette_90": [
+     13,
+     52
+    ],
+    "premiere_force": 0
+   },
+   "PSB": {
+    "sieges_attendus": 16.6,
+    "fourchette_90": [
+     7,
+     30
+    ],
+    "premiere_force": 0
+   },
+   "PSDB CIDADANIA": {
+    "sieges_attendus": 16.4,
+    "fourchette_90": [
+     7,
+     30
+    ],
+    "premiere_force": 0
+   },
+   "PSOL REDE": {
+    "sieges_attendus": 16.3,
+    "fourchette_90": [
+     7,
+     28
+    ],
+    "premiere_force": 0
+   },
+   "RENOVAÇÃO SOLIDÁRIA": {
+    "sieges_attendus": 14.1,
+    "fourchette_90": [
+     5,
+     27
+    ],
+    "premiere_force": 0
+   },
+   "PDT": {
+    "sieges_attendus": 8.3,
+    "fourchette_90": [
+     3,
+     16
+    ],
+    "premiere_force": 0
+   },
+   "AVANTE": {
+    "sieges_attendus": 6.1,
+    "fourchette_90": [
+     2,
+     12
+    ],
+    "premiere_force": 0
+   },
+   "NOVO": {
+    "sieges_attendus": 4.7,
+    "fourchette_90": [
+     1,
+     10
+    ],
+    "premiere_force": 0
+   },
+   "MISSÃO": {
+    "sieges_attendus": 0.9,
+    "fourchette_90": [
+     0,
+     2
+    ],
+    "premiere_force": 0
+   }
+  },
+  "assemblees": {
+   "UNIÃO PROGRESSISTA": {
+    "sieges_attendus": 192.3,
+    "fourchette_90": [
+     120,
+     281
+    ],
+    "premiere_force": 0.547
+   },
+   "FE BRASIL": {
+    "sieges_attendus": 158.1,
+    "fourchette_90": [
+     94,
+     236
+    ],
+    "premiere_force": 0.239
+   },
+   "PL": {
+    "sieges_attendus": 145.7,
+    "fourchette_90": [
+     86,
+     220
+    ],
+    "premiere_force": 0.163
+   },
+   "MDB": {
+    "sieges_attendus": 114.2,
+    "fourchette_90": [
+     68,
+     169
+    ],
+    "premiere_force": 0.034
+   },
+   "PSD": {
+    "sieges_attendus": 91.6,
+    "fourchette_90": [
+     51,
+     143
+    ],
+    "premiere_force": 0.009
+   },
+   "REPUBLICANOS": {
+    "sieges_attendus": 88.6,
+    "fourchette_90": [
+     49,
+     139
+    ],
+    "premiere_force": 0.008
+   },
+   "PODE": {
+    "sieges_attendus": 49.8,
+    "fourchette_90": [
+     26,
+     81
+    ],
+    "premiere_force": 0
+   },
+   "PSDB CIDADANIA": {
+    "sieges_attendus": 47.9,
+    "fourchette_90": [
+     25,
+     78
+    ],
+    "premiere_force": 0
+   },
+   "PSB": {
+    "sieges_attendus": 45.9,
+    "fourchette_90": [
+     24,
+     74
+    ],
+    "premiere_force": 0
+   },
+   "RENOVAÇÃO SOLIDÁRIA": {
+    "sieges_attendus": 37.1,
+    "fourchette_90": [
+     18,
+     62
+    ],
+    "premiere_force": 0
+   },
+   "PSOL REDE": {
+    "sieges_attendus": 27.0,
+    "fourchette_90": [
+     12,
+     47
+    ],
+    "premiere_force": 0
+   },
+   "PDT": {
+    "sieges_attendus": 25.4,
+    "fourchette_90": [
+     12,
+     43
+    ],
+    "premiere_force": 0
+   },
+   "AVANTE": {
+    "sieges_attendus": 15.5,
+    "fourchette_90": [
+     7,
+     28
+    ],
+    "premiere_force": 0
+   },
+   "NOVO": {
+    "sieges_attendus": 9.8,
+    "fourchette_90": [
+     3,
+     20
+    ],
+    "premiere_force": 0
+   },
+   "MOBILIZA": {
+    "sieges_attendus": 5.6,
+    "fourchette_90": [
+     1,
+     11
+    ],
+    "premiere_force": 0
+   },
+   "AGIR": {
+    "sieges_attendus": 3.9,
+    "fourchette_90": [
+     1,
+     8
+    ],
+    "premiere_force": 0
+   }
+  }
+ }
+}
