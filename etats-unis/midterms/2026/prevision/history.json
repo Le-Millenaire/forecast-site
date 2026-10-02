@@ -1,0 +1,74 @@
+{
+"points": [
+{
+"date": "2026-09-25",
+"house_p_d": 0.94053,
+"house_seats_d": 238.47,
+"senate_p_dpi": 0.66495,
+"senate_seats_dpi": 51.428,
+"gov_d": 20.404,
+"gb_margin": 7.144,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-09-26",
+"house_p_d": 0.94053,
+"house_seats_d": 238.47,
+"senate_p_dpi": 0.66449,
+"senate_seats_dpi": 51.426,
+"gov_d": 20.404,
+"gb_margin": 7.144,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-09-27",
+"house_p_d": 0.94137,
+"house_seats_d": 238.567,
+"senate_p_dpi": 0.66112,
+"senate_seats_dpi": 51.404,
+"gov_d": 20.411,
+"gb_margin": 7.166,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-09-28",
+"house_p_d": 0.94789,
+"house_seats_d": 239.397,
+"senate_p_dpi": 0.65993,
+"senate_seats_dpi": 51.398,
+"gov_d": 20.478,
+"gb_margin": 7.355,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-09-29",
+"house_p_d": 0.94789,
+"house_seats_d": 239.397,
+"senate_p_dpi": 0.65575,
+"senate_seats_dpi": 51.372,
+"gov_d": 20.478,
+"gb_margin": 7.355,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-09-30",
+"house_p_d": 0.94789,
+"house_seats_d": 239.397,
+"senate_p_dpi": 0.65165,
+"senate_seats_dpi": 51.349,
+"gov_d": 20.478,
+"gb_margin": 7.355,
+"source": "recalcul_a_posteriori"
+},
+{
+"date": "2026-10-01",
+"house_p_d": 0.94789,
+"house_seats_d": 239.397,
+"senate_p_dpi": 0.65165,
+"senate_seats_dpi": 51.349,
+"gov_d": 20.478,
+"gb_margin": 7.355,
+"source": "recalcul_a_posteriori"
+}
+]
+}
