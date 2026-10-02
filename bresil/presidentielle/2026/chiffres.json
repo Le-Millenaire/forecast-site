@@ -1,16 +1,16 @@
 {
- "tirage": "2026-10-01",
+ "tirage": "2026-10-02",
  "candidats": [
   {
    "nom": "Lula",
    "court": "Lula",
-   "elu": 51.8
+   "elu": 52.1
   },
   {
    "nom": "Flávio Bolsonaro",
    "court": "Flávio Bolsonaro",
-   "elu": 48.2
+   "elu": 47.9
   }
  ],
- "second_tour": 84.8
+ "second_tour": 84.9
 }
