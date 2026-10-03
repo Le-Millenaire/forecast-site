@@ -1,12 +1,12 @@
 {
- "mise_a_jour": "2026-10-02",
+ "mise_a_jour": "2026-10-03",
  "etats": {
   "AC": {
    "gouverneur": {
     "favori": "MAILZA ASSIS",
     "parti": "PP",
-    "chances": 0.513,
-    "elu_1er_tour": 0.184,
+    "chances": 0.508,
+    "elu_1er_tour": 0.183,
     "second_tour": 0.752,
     "rival": "ALAN RICK",
     "parti_rival": "REPUBLICANOS"
@@ -15,22 +15,22 @@
     {
      "candidat": "GLADSON CAMELÍ",
      "parti": "PP",
-     "chances": 0.692
+     "chances": 0.694
     },
     {
      "candidat": "MARCIO BITTAR",
      "parti": "PL",
-     "chances": 0.584
+     "chances": 0.582
     },
     {
      "candidat": "MARA ROCHA",
      "parti": "REPUBLICANOS",
-     "chances": 0.327
+     "chances": 0.326
     },
     {
      "candidat": "JORGE VIANA",
      "parti": "PT",
-     "chances": 0.31
+     "chances": 0.312
     },
     {
      "candidat": "PETECÃO",
@@ -40,7 +40,7 @@
     {
      "candidat": "EDUARDO VELLOSO",
      "parti": "SOLIDARIEDADE",
-     "chances": 0.025
+     "chances": 0.024
     }
    ],
    "chambre": {
@@ -164,8 +164,8 @@
    "gouverneur": {
     "favori": "JHC",
     "parti": "PSDB",
-    "chances": 0.648,
-    "elu_1er_tour": 0.591,
+    "chances": 0.65,
+    "elu_1er_tour": 0.594,
     "second_tour": 0.115,
     "rival": "RENAN FILHO",
     "parti_rival": "MDB"
@@ -179,22 +179,22 @@
     {
      "candidat": "MARINA JHC",
      "parti": "PSDB",
-     "chances": 0.649
+     "chances": 0.648
     },
     {
      "candidat": "RENAN",
      "parti": "MDB",
-     "chances": 0.527
+     "chances": 0.528
     },
     {
      "candidat": "DAVI DAVINO FILHO",
      "parti": "REPUBLICANOS",
-     "chances": 0.14
+     "chances": 0.141
     },
     {
      "candidat": "DR. WANDERLEY",
      "parti": "MDB",
-     "chances": 0.014
+     "chances": 0.013
     }
    ],
    "chambre": {
@@ -283,7 +283,7 @@
    "gouverneur": {
     "favori": "OMAR AZIZ",
     "parti": "PSD",
-    "chances": 0.747,
+    "chances": 0.749,
     "elu_1er_tour": 0.042,
     "second_tour": 0.958,
     "rival": "PROFESSORA MARIA DO CARMO",
@@ -293,12 +293,12 @@
     {
      "candidat": "EDUARDO BRAGA",
      "parti": "MDB",
-     "chances": 0.791
+     "chances": 0.79
     },
     {
      "candidat": "CAPITÃO ALBERTO NETO",
      "parti": "PL",
-     "chances": 0.669
+     "chances": 0.671
     },
     {
      "candidat": "WILSON LIMA",
@@ -308,7 +308,7 @@
     {
      "candidat": "PLINIO VALÉRIO",
      "parti": "PSDB",
-     "chances": 0.259
+     "chances": 0.258
     }
    ],
    "chambre": {
@@ -441,7 +441,7 @@
     "parti": "PSD",
     "chances": 0.977,
     "elu_1er_tour": 0.894,
-    "second_tour": 0.092,
+    "second_tour": 0.091,
     "rival": "CLÉCIO",
     "parti_rival": "UNIÃO"
    },
@@ -464,7 +464,7 @@
     {
      "candidat": "ALLINY SERRÃO",
      "parti": "UNIÃO",
-     "chances": 0.117
+     "chances": 0.118
     },
     {
      "candidat": "ACÁCIO FAVACHO",
@@ -593,9 +593,9 @@
    "gouverneur": {
     "favori": "ACM NETO",
     "parti": "UNIÃO",
-    "chances": 0.559,
-    "elu_1er_tour": 0.416,
-    "second_tour": 0.249,
+    "chances": 0.561,
+    "elu_1er_tour": 0.418,
+    "second_tour": 0.247,
     "rival": "JERÔNIMO RODRIGUES",
     "parti_rival": "PT"
    },
@@ -603,7 +603,7 @@
     {
      "candidat": "RUI COSTA",
      "parti": "PT",
-     "chances": 0.794
+     "chances": 0.793
     },
     {
      "candidat": "JAQUES WAGNER",
@@ -613,7 +613,7 @@
     {
      "candidat": "JOÃO ROMA",
      "parti": "PL",
-     "chances": 0.331
+     "chances": 0.332
     },
     {
      "candidat": "ANGELO CORONEL",
@@ -791,9 +791,9 @@
    "gouverneur": {
     "favori": "CIRO GOMES",
     "parti": "PSDB",
-    "chances": 0.548,
-    "elu_1er_tour": 0.474,
-    "second_tour": 0.122,
+    "chances": 0.55,
+    "elu_1er_tour": 0.476,
+    "second_tour": 0.121,
     "rival": "ELMANO DE FREITAS",
     "parti_rival": "PT"
    },
@@ -801,22 +801,22 @@
     {
      "candidat": "CID GOMES",
      "parti": "PSB",
-     "chances": 0.739
+     "chances": 0.738
     },
     {
      "candidat": "CAPITÃO WAGNER",
      "parti": "UNIÃO",
-     "chances": 0.543
+     "chances": 0.544
     },
     {
      "candidat": "LUIZIANNE",
      "parti": "REDE",
-     "chances": 0.521
+     "chances": 0.519
     },
     {
      "candidat": "ALCIDES FERNANDES",
      "parti": "PL",
-     "chances": 0.197
+     "chances": 0.198
     }
    ],
    "chambre": {
@@ -982,9 +982,9 @@
    "gouverneur": {
     "favori": "CELINA LEÃO",
     "parti": "PP",
-    "chances": 0.941,
-    "elu_1er_tour": 0.25,
-    "second_tour": 0.75,
+    "chances": 0.94,
+    "elu_1er_tour": 0.248,
+    "second_tour": 0.752,
     "rival": "ARRUDA",
     "parti_rival": "PSD"
    },
@@ -1007,7 +1007,7 @@
     {
      "candidat": "ERIKA KOKAY",
      "parti": "PT",
-     "chances": 0.283
+     "chances": 0.284
     }
    ],
    "chambre": {
@@ -1166,9 +1166,9 @@
    "gouverneur": {
     "favori": "RICARDO FERRAÇO",
     "parti": "MDB",
-    "chances": 0.68,
-    "elu_1er_tour": 0.182,
-    "second_tour": 0.729,
+    "chances": 0.681,
+    "elu_1er_tour": 0.183,
+    "second_tour": 0.727,
     "rival": "LORENZO PAZOLINI",
     "parti_rival": "REPUBLICANOS"
    },
@@ -1176,12 +1176,12 @@
     {
      "candidat": "RENATO CASAGRANDE",
      "parti": "PSB",
-     "chances": 0.955
+     "chances": 0.956
     },
     {
      "candidat": "FABIANO CONTARATO",
      "parti": "PT",
-     "chances": 0.321
+     "chances": 0.322
     },
     {
      "candidat": "SERGIO MENEGUELLI",
@@ -1196,7 +1196,7 @@
     {
      "candidat": "EVAIR DE MELO",
      "parti": "REPUBLICANOS",
-     "chances": 0.117
+     "chances": 0.116
     },
     {
      "candidat": "ROSE DE FREITAS",
@@ -1359,8 +1359,8 @@
     "favori": "DANIEL VILELA",
     "parti": "MDB",
     "chances": 0.997,
-    "elu_1er_tour": 0.363,
-    "second_tour": 0.632,
+    "elu_1er_tour": 0.362,
+    "second_tour": 0.633,
     "rival": "MARCONI PERILLO",
     "parti_rival": "PSDB"
    },
@@ -1368,7 +1368,7 @@
     {
      "candidat": "GRACINHA CAIADO",
      "parti": "UNIÃO",
-     "chances": 0.793
+     "chances": 0.794
     },
     {
      "candidat": "GUSTAVO GAYER",
@@ -1378,7 +1378,7 @@
     {
      "candidat": "DR. ZACHARIAS CALIL",
      "parti": "MDB",
-     "chances": 0.328
+     "chances": 0.326
     },
     {
      "candidat": "GUSTAVO MENDANHA",
@@ -1573,9 +1573,9 @@
    "gouverneur": {
     "favori": "EDUARDO BRAIDE",
     "parti": "PSD",
-    "chances": 0.869,
+    "chances": 0.868,
     "elu_1er_tour": 0.156,
-    "second_tour": 0.725,
+    "second_tour": 0.724,
     "rival": "ORLEANS BRANDÃO",
     "parti_rival": "MDB"
    },
@@ -1588,17 +1588,17 @@
     {
      "candidat": "FUFUCA",
      "parti": "PP",
-     "chances": 0.445
+     "chances": 0.442
     },
     {
      "candidat": "LAHESIO BONFIM",
      "parti": "NOVO",
-     "chances": 0.359
+     "chances": 0.36
     },
     {
      "candidat": "WEVERTON ROCHA",
      "parti": "PDT",
-     "chances": 0.278
+     "chances": 0.281
     },
     {
      "candidat": "ELIZIANE GAMA",
@@ -1608,7 +1608,7 @@
     {
      "candidat": "DR.HILTON GONÇALO",
      "parti": "MOBILIZA",
-     "chances": 0.047
+     "chances": 0.048
     },
     {
      "candidat": "CIDÔNIO GONÇALVES",
@@ -1766,8 +1766,8 @@
     "favori": "CLEITINHO AZEVEDO",
     "parti": "REPUBLICANOS",
     "chances": 0.984,
-    "elu_1er_tour": 0.309,
-    "second_tour": 0.691,
+    "elu_1er_tour": 0.306,
+    "second_tour": 0.693,
     "rival": "PATRUS ANANIAS",
     "parti_rival": "PT"
    },
@@ -1780,27 +1780,27 @@
     {
      "candidat": "CARLOS VIANA",
      "parti": "PSD",
-     "chances": 0.468
+     "chances": 0.469
     },
     {
      "candidat": "DOMINGOS SÁVIO",
      "parti": "PL",
-     "chances": 0.371
+     "chances": 0.369
     },
     {
      "candidat": "AÉCIO NEVES",
      "parti": "PSDB",
-     "chances": 0.358
+     "chances": 0.359
     },
     {
      "candidat": "MARCELO ARO",
      "parti": "PP",
-     "chances": 0.134
+     "chances": 0.135
     },
     {
      "candidat": "ÁUREA CAROLINA",
      "parti": "PSOL",
-     "chances": 0.036
+     "chances": 0.035
     }
    ],
    "chambre": {
@@ -2023,8 +2023,8 @@
     "favori": "EDUARDO RIEDEL",
     "parti": "PP",
     "chances": 0.999,
-    "elu_1er_tour": 0.777,
-    "second_tour": 0.223,
+    "elu_1er_tour": 0.774,
+    "second_tour": 0.226,
     "rival": "FÁBIO TRAD",
     "parti_rival": "PT"
    },
@@ -2037,17 +2037,17 @@
     {
      "candidat": "CAPITÃO CONTAR",
      "parti": "PL",
-     "chances": 0.816
+     "chances": 0.817
     },
     {
      "candidat": "VANDER LOUBET",
      "parti": "PT",
-     "chances": 0.177
+     "chances": 0.176
     },
     {
      "candidat": "SORAYA",
      "parti": "PSB",
-     "chances": 0.095
+     "chances": 0.096
     }
    ],
    "chambre": {
@@ -2157,9 +2157,9 @@
    "gouverneur": {
     "favori": "OTAVIANO PIVETTA",
     "parti": "REPUBLICANOS",
-    "chances": 0.675,
-    "elu_1er_tour": 0.219,
-    "second_tour": 0.753,
+    "chances": 0.787,
+    "elu_1er_tour": 0.272,
+    "second_tour": 0.704,
     "rival": "WELLINGTON FAGUNDES",
     "parti_rival": "PL"
    },
@@ -2167,7 +2167,7 @@
     {
      "candidat": "MAURO MENDES",
      "parti": "UNIÃO",
-     "chances": 0.911
+     "chances": 0.902
     },
     {
      "candidat": "JANAINA RIVA",
@@ -2177,17 +2177,17 @@
     {
      "candidat": "ZÉ MEDEIROS",
      "parti": "PL",
-     "chances": 0.306
+     "chances": 0.332
     },
     {
      "candidat": "FÁVARO",
      "parti": "PSD",
-     "chances": 0.1
+     "chances": 0.091
     },
     {
      "candidat": "PEDRO TAQUES",
      "parti": "PSB",
-     "chances": 0.063
+     "chances": 0.056
     }
    ],
    "chambre": {
@@ -2304,9 +2304,9 @@
    "gouverneur": {
     "favori": "DR. DANIEL",
     "parti": "PODE",
-    "chances": 0.517,
-    "elu_1er_tour": 0.432,
-    "second_tour": 0.14,
+    "chances": 0.516,
+    "elu_1er_tour": 0.429,
+    "second_tour": 0.144,
     "rival": "HANA GHASSAN",
     "parti_rival": "MDB"
    },
@@ -2319,22 +2319,22 @@
     {
      "candidat": "DELEGADO ÉDER MAURO",
      "parti": "PL",
-     "chances": 0.572
+     "chances": 0.576
     },
     {
      "candidat": "CHICÃO",
      "parti": "UNIÃO",
-     "chances": 0.289
+     "chances": 0.286
     },
     {
      "candidat": "ZEQUINHA MARINHO",
      "parti": "PODE",
-     "chances": 0.221
+     "chances": 0.22
     },
     {
      "candidat": "CELSO SABINO",
      "parti": "PDT",
-     "chances": 0.089
+     "chances": 0.09
     }
    ],
    "chambre": {
@@ -2503,22 +2503,22 @@
     {
      "candidat": "JOAO AZEVÊDO",
      "parti": "PSB",
-     "chances": 0.943
+     "chances": 0.944
     },
     {
      "candidat": "VENEZIANO",
      "parti": "MDB",
-     "chances": 0.722
+     "chances": 0.725
     },
     {
      "candidat": "NABOR",
      "parti": "REPUBLICANOS",
-     "chances": 0.251
+     "chances": 0.249
     },
     {
      "candidat": "DR. MARCELO QUEIROGA",
      "parti": "PL",
-     "chances": 0.081
+     "chances": 0.079
     }
    ],
    "chambre": {
@@ -2628,9 +2628,9 @@
    "gouverneur": {
     "favori": "RAQUEL LYRA",
     "parti": "PSD",
-    "chances": 0.71,
-    "elu_1er_tour": 0.512,
-    "second_tour": 0.408,
+    "chances": 0.712,
+    "elu_1er_tour": 0.514,
+    "second_tour": 0.407,
     "rival": "JOÃO CAMPOS",
     "parti_rival": "PSB"
    },
@@ -2638,17 +2638,17 @@
     {
      "candidat": "MARÍLIA ARRAES",
      "parti": "PDT",
-     "chances": 0.816
+     "chances": 0.815
     },
     {
      "candidat": "HUMBERTO COSTA",
      "parti": "PT",
-     "chances": 0.657
+     "chances": 0.655
     },
     {
      "candidat": "MENDONÇA FILHO",
      "parti": "PL",
-     "chances": 0.334
+     "chances": 0.335
     },
     {
      "candidat": "EDUARDO DA FONTE",
@@ -2658,7 +2658,7 @@
     {
      "candidat": "TÚLIO GADÊLHA",
      "parti": "PSD",
-     "chances": 0.018
+     "chances": 0.019
     }
    ],
    "chambre": {
@@ -2846,8 +2846,8 @@
     "favori": "RAFAEL FONTELES",
     "parti": "PT",
     "chances": 0.998,
-    "elu_1er_tour": 0.965,
-    "second_tour": 0.035,
+    "elu_1er_tour": 0.963,
+    "second_tour": 0.037,
     "rival": "JOEL RODRIGUES",
     "parti_rival": "PP"
    },
@@ -2855,17 +2855,17 @@
     {
      "candidat": "MARCELO CASTRO",
      "parti": "MDB",
-     "chances": 0.786
+     "chances": 0.785
     },
     {
      "candidat": "JÚLIO CÉSAR O JULIM DO LULA",
      "parti": "PSD",
-     "chances": 0.603
+     "chances": 0.599
     },
     {
      "candidat": "CIRO NOGUEIRA",
      "parti": "PP",
-     "chances": 0.563
+     "chances": 0.568
     },
     {
      "candidat": "TIAGO JUNQUEIRA",
@@ -2952,9 +2952,9 @@
    "gouverneur": {
     "favori": "SERGIO MORO",
     "parti": "PL",
-    "chances": 0.888,
-    "elu_1er_tour": 0.324,
-    "second_tour": 0.667,
+    "chances": 0.891,
+    "elu_1er_tour": 0.325,
+    "second_tour": 0.666,
     "rival": "SANDRO ALEX",
     "parti_rival": "PSD"
    },
@@ -2962,12 +2962,12 @@
     {
      "candidat": "DELTAN DALLAGNOL",
      "parti": "NOVO",
-     "chances": 0.598
+     "chances": 0.6
     },
     {
      "candidat": "FILIPE BARROS",
      "parti": "PL",
-     "chances": 0.447
+     "chances": 0.446
     },
     {
      "candidat": "ALEXANDRE CURI",
@@ -2982,7 +2982,7 @@
     {
      "candidat": "CRISTINA GRAEML",
      "parti": "PSD",
-     "chances": 0.102
+     "chances": 0.101
     },
     {
      "candidat": "DR ROSINHA",
@@ -3160,9 +3160,9 @@
    "gouverneur": {
     "favori": "EDUARDO PAES",
     "parti": "PSD",
-    "chances": 0.91,
-    "elu_1er_tour": 0.368,
-    "second_tour": 0.606,
+    "chances": 0.911,
+    "elu_1er_tour": 0.369,
+    "second_tour": 0.605,
     "rival": "DOUGLAS RUAS",
     "parti_rival": "PL"
    },
@@ -3170,12 +3170,12 @@
     {
      "candidat": "BENEDITA DA SILVA",
      "parti": "PT",
-     "chances": 0.767
+     "chances": 0.768
     },
     {
      "candidat": "CARLOS JORDY",
      "parti": "PL",
-     "chances": 0.408
+     "chances": 0.405
     },
     {
      "candidat": "CARLOS PORTINHO",
@@ -3185,7 +3185,7 @@
     {
      "candidat": "MARCELO CRIVELLA",
      "parti": "REPUBLICANOS",
-     "chances": 0.212
+     "chances": 0.213
     },
     {
      "candidat": "PEDRO PAULO",
@@ -3195,7 +3195,7 @@
     {
      "candidat": "MONICA BENICIO",
      "parti": "PSOL",
-     "chances": 0.054
+     "chances": 0.055
     },
     {
      "candidat": "WAGUINHO",
@@ -3436,9 +3436,9 @@
    "gouverneur": {
     "favori": "ALLYSON",
     "parti": "UNIÃO",
-    "chances": 0.933,
+    "chances": 0.934,
     "elu_1er_tour": 0.287,
-    "second_tour": 0.711,
+    "second_tour": 0.71,
     "rival": "ÁLVARO DIAS",
     "parti_rival": "PL"
    },
@@ -3451,17 +3451,17 @@
     {
      "candidat": "ZENAIDE MAIA",
      "parti": "PSD",
-     "chances": 0.683
+     "chances": 0.684
     },
     {
      "candidat": "SAMANDA DE LULA",
      "parti": "PT",
-     "chances": 0.174
+     "chances": 0.173
     },
     {
      "candidat": "RAFAEL MOTTA",
      "parti": "PDT",
-     "chances": 0.128
+     "chances": 0.129
     },
     {
      "candidat": "CORONEL HÉLIO",
@@ -3549,8 +3549,8 @@
     "favori": "MARCOS ROGÉRIO",
     "parti": "PL",
     "chances": 0.913,
-    "elu_1er_tour": 0.255,
-    "second_tour": 0.745,
+    "elu_1er_tour": 0.254,
+    "second_tour": 0.746,
     "rival": "ADAILTON FURIA",
     "parti_rival": "PSD"
    },
@@ -3558,17 +3558,17 @@
     {
      "candidat": "DR. FERNANDO MÁXIMO",
      "parti": "PL",
-     "chances": 0.8
-    },
-    {
-     "candidat": "BRUNO SCHEID",
-     "parti": "PL",
-     "chances": 0.456
+     "chances": 0.798
     },
     {
      "candidat": "SÍLVIA CRISTINA",
      "parti": "PP",
-     "chances": 0.453
+     "chances": 0.455
+    },
+    {
+     "candidat": "BRUNO SCHEID",
+     "parti": "PL",
+     "chances": 0.454
     },
     {
      "candidat": "MARIANA CARVALHO",
@@ -3578,7 +3578,7 @@
     {
      "candidat": "ACIR GURGACZ",
      "parti": "PDT",
-     "chances": 0.081
+     "chances": 0.083
     }
    ],
    "chambre": {
@@ -3724,7 +3724,7 @@
     {
      "candidat": "NICOLETTI",
      "parti": "PL",
-     "chances": 0.588
+     "chances": 0.587
     },
     {
      "candidat": "HELENA DA ASATUR",
@@ -3849,9 +3849,9 @@
    "gouverneur": {
     "favori": "ZUCCO",
     "parti": "PL",
-    "chances": 0.678,
+    "chances": 0.676,
     "elu_1er_tour": 0.208,
-    "second_tour": 0.791,
+    "second_tour": 0.792,
     "rival": "JULIANA BRIZOLA",
     "parti_rival": "PDT"
    },
@@ -3859,17 +3859,17 @@
     {
      "candidat": "MARCEL VAN HATTEM",
      "parti": "NOVO",
-     "chances": 0.586
+     "chances": 0.585
     },
     {
      "candidat": "MANUELA D ÁVILA",
      "parti": "PSOL",
-     "chances": 0.513
+     "chances": 0.514
     },
     {
      "candidat": "SANDERSON",
      "parti": "PL",
-     "chances": 0.392
+     "chances": 0.389
     },
     {
      "candidat": "PIMENTA",
@@ -3879,7 +3879,7 @@
     {
      "candidat": "RIGOTTO",
      "parti": "MDB",
-     "chances": 0.208
+     "chances": 0.209
     }
    ],
    "chambre": {
@@ -4076,12 +4076,12 @@
     {
      "candidat": "CAROL DE TONI",
      "parti": "PL",
-     "chances": 0.712
+     "chances": 0.711
     },
     {
      "candidat": "ESPERIDIÃO AMIN",
      "parti": "PP",
-     "chances": 0.572
+     "chances": 0.573
     },
     {
      "candidat": "CARLOS BOLSONARO",
@@ -4096,12 +4096,12 @@
     {
      "candidat": "LUNELLI",
      "parti": "MDB",
-     "chances": 0.043
+     "chances": 0.044
     },
     {
      "candidat": "AFRÂNIO BOPPRÉ",
      "parti": "PSOL",
-     "chances": 0.02
+     "chances": 0.021
     }
    ],
    "chambre": {
@@ -4260,9 +4260,9 @@
    "gouverneur": {
     "favori": "FÁBIO",
     "parti": "PSD",
-    "chances": 0.817,
-    "elu_1er_tour": 0.462,
-    "second_tour": 0.46,
+    "chances": 0.816,
+    "elu_1er_tour": 0.461,
+    "second_tour": 0.459,
     "rival": "VALMIR DE FRANCISQUINHO",
     "parti_rival": "REPUBLICANOS"
    },
@@ -4270,12 +4270,12 @@
     {
      "candidat": "DELEGADO ANDRÉ DAVID",
      "parti": "REPUBLICANOS",
-     "chances": 0.516
+     "chances": 0.518
     },
     {
      "candidat": "ROGERIO CARVALHO",
      "parti": "PT",
-     "chances": 0.403
+     "chances": 0.401
     },
     {
      "candidat": "DELEGADO ALESSANDRO",
@@ -4285,7 +4285,7 @@
     {
      "candidat": "ANDRÉ MOURA",
      "parti": "UNIÃO",
-     "chances": 0.373
+     "chances": 0.374
     },
     {
      "candidat": "EDUARDO AMORIM",
@@ -4295,7 +4295,7 @@
     {
      "candidat": "EDVALDO",
      "parti": "PDT",
-     "chances": 0.099
+     "chances": 0.1
     },
     {
      "candidat": "RODRIGO VALADARES",
@@ -4416,8 +4416,8 @@
     "favori": "TARCÍSIO",
     "parti": "REPUBLICANOS",
     "chances": 0.962,
-    "elu_1er_tour": 0.788,
-    "second_tour": 0.198,
+    "elu_1er_tour": 0.787,
+    "second_tour": 0.199,
     "rival": "FERNANDO HADDAD",
     "parti_rival": "PT"
    },
@@ -4425,7 +4425,7 @@
     {
      "candidat": "GUILHERME DERRITE",
      "parti": "PP",
-     "chances": 0.556
+     "chances": 0.554
     },
     {
      "candidat": "MARINA SILVA",
@@ -4435,7 +4435,7 @@
     {
      "candidat": "SIMONE TEBET",
      "parti": "PSB",
-     "chances": 0.501
+     "chances": 0.502
     },
     {
      "candidat": "ANDRÉ DO PRADO",
@@ -4445,7 +4445,7 @@
     {
      "candidat": "SALLES",
      "parti": "NOVO",
-     "chances": 0.033
+     "chances": 0.034
     }
    ],
    "chambre": {
@@ -4654,8 +4654,8 @@
     "favori": "PROFESSORA DORINHA",
     "parti": "UNIÃO",
     "chances": 1.0,
-    "elu_1er_tour": 0.958,
-    "second_tour": 0.042,
+    "elu_1er_tour": 0.956,
+    "second_tour": 0.044,
     "rival": "LAUREZ MOREIRA",
     "parti_rival": "PSD"
    },
@@ -4663,7 +4663,7 @@
     {
      "candidat": "EDUARDO GOMES",
      "parti": "PL",
-     "chances": 0.792
+     "chances": 0.793
     },
     {
      "candidat": "ALEXANDRE GUIMARÃES",
@@ -4673,17 +4673,17 @@
     {
      "candidat": "GAGUIM",
      "parti": "UNIÃO",
-     "chances": 0.373
+     "chances": 0.372
     },
     {
      "candidat": "ELI BORGES",
      "parti": "REPUBLICANOS",
-     "chances": 0.171
+     "chances": 0.172
     },
     {
      "candidat": "PAULO MOURÃO",
      "parti": "PT",
-     "chances": 0.102
+     "chances": 0.1
     },
     {
      "candidat": "VANDERLEI LUXEMBURGO",
@@ -4693,7 +4693,7 @@
     {
      "candidat": "RONALDO DIMAS",
      "parti": "PODE",
-     "chances": 0.045
+     "chances": 0.046
     }
    ],
    "chambre": {
@@ -4826,7 +4826,7 @@
     "premiere_force": 0.273
    },
    "FE BRASIL": {
-    "sieges_attendus": 75.0,
+    "sieges_attendus": 74.9,
     "fourchette_90": [
      40,
      118
@@ -4834,7 +4834,7 @@
     "premiere_force": 0.148
    },
    "REPUBLICANOS": {
-    "sieges_attendus": 50.3,
+    "sieges_attendus": 50.4,
     "fourchette_90": [
      25,
      82
@@ -4943,12 +4943,12 @@
     "sieges_attendus": 158.1,
     "fourchette_90": [
      94,
-     236
+     235
     ],
     "premiere_force": 0.239
    },
    "PL": {
-    "sieges_attendus": 145.7,
+    "sieges_attendus": 145.6,
     "fourchette_90": [
      86,
      220
