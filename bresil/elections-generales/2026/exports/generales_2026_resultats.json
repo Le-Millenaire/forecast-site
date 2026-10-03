@@ -283,27 +283,27 @@
    "gouverneur": {
     "favori": "OMAR AZIZ",
     "parti": "PSD",
-    "chances": 0.749,
-    "elu_1er_tour": 0.042,
-    "second_tour": 0.958,
-    "rival": "PROFESSORA MARIA DO CARMO",
-    "parti_rival": "PL"
+    "chances": 0.737,
+    "elu_1er_tour": 0.029,
+    "second_tour": 0.971,
+    "rival": "ROBERTO CIDADE",
+    "parti_rival": "UNIÃO"
    },
    "senat": [
     {
      "candidat": "EDUARDO BRAGA",
      "parti": "MDB",
-     "chances": 0.79
+     "chances": 0.789
     },
     {
      "candidat": "CAPITÃO ALBERTO NETO",
      "parti": "PL",
-     "chances": 0.671
+     "chances": 0.669
     },
     {
      "candidat": "WILSON LIMA",
      "parti": "UNIÃO",
-     "chances": 0.281
+     "chances": 0.284
     },
     {
      "candidat": "PLINIO VALÉRIO",
@@ -420,7 +420,7 @@
      ]
     },
     "UNIÃO PROGRESSISTA": {
-     "sieges": 7,
+     "sieges": 6,
      "fourchette_90": [
       3,
       12
@@ -992,22 +992,22 @@
     {
      "candidat": "MICHELLE BOLSONARO",
      "parti": "PL",
-     "chances": 0.791
+     "chances": 0.79
     },
     {
      "candidat": "LEILA DO VÔLEI",
      "parti": "PDT",
-     "chances": 0.503
+     "chances": 0.498
     },
     {
      "candidat": "BIA KICIS",
      "parti": "PL",
-     "chances": 0.413
+     "chances": 0.422
     },
     {
      "candidat": "ERIKA KOKAY",
      "parti": "PT",
-     "chances": 0.284
+     "chances": 0.283
     }
    ],
    "chambre": {
@@ -1015,7 +1015,7 @@
      "sieges": 1,
      "fourchette_90": [
       0,
-      4
+      3
      ]
     },
     "FE BRASIL": {
@@ -1775,32 +1775,32 @@
     {
      "candidat": "MARÍLIA CAMPOS",
      "parti": "PT",
-     "chances": 0.63
+     "chances": 0.623
     },
     {
      "candidat": "CARLOS VIANA",
      "parti": "PSD",
-     "chances": 0.469
+     "chances": 0.487
     },
     {
      "candidat": "DOMINGOS SÁVIO",
      "parti": "PL",
-     "chances": 0.369
+     "chances": 0.399
     },
     {
      "candidat": "AÉCIO NEVES",
      "parti": "PSDB",
-     "chances": 0.359
+     "chances": 0.324
     },
     {
      "candidat": "MARCELO ARO",
      "parti": "PP",
-     "chances": 0.135
+     "chances": 0.127
     },
     {
      "candidat": "ÁUREA CAROLINA",
      "parti": "PSOL",
-     "chances": 0.035
+     "chances": 0.033
     }
    ],
    "chambre": {
@@ -2005,7 +2005,7 @@
     "REPUBLICANOS": {
      "sieges": 4,
      "fourchette_90": [
-      2,
+      1,
       9
      ]
     },
@@ -2304,9 +2304,9 @@
    "gouverneur": {
     "favori": "DR. DANIEL",
     "parti": "PODE",
-    "chances": 0.516,
-    "elu_1er_tour": 0.429,
-    "second_tour": 0.144,
+    "chances": 0.484,
+    "elu_1er_tour": 0.407,
+    "second_tour": 0.132,
     "rival": "HANA GHASSAN",
     "parti_rival": "MDB"
    },
@@ -2314,27 +2314,27 @@
     {
      "candidat": "HELDER",
      "parti": "MDB",
-     "chances": 0.828
+     "chances": 0.833
     },
     {
      "candidat": "DELEGADO ÉDER MAURO",
      "parti": "PL",
-     "chances": 0.576
+     "chances": 0.565
     },
     {
      "candidat": "CHICÃO",
      "parti": "UNIÃO",
-     "chances": 0.286
+     "chances": 0.305
     },
     {
      "candidat": "ZEQUINHA MARINHO",
      "parti": "PODE",
-     "chances": 0.22
+     "chances": 0.209
     },
     {
      "candidat": "CELSO SABINO",
      "parti": "PDT",
-     "chances": 0.09
+     "chances": 0.088
     }
    ],
    "chambre": {
@@ -3161,8 +3161,8 @@
     "favori": "EDUARDO PAES",
     "parti": "PSD",
     "chances": 0.911,
-    "elu_1er_tour": 0.369,
-    "second_tour": 0.605,
+    "elu_1er_tour": 0.353,
+    "second_tour": 0.621,
     "rival": "DOUGLAS RUAS",
     "parti_rival": "PL"
    },
@@ -3377,7 +3377,7 @@
     "PL": {
      "sieges": 16,
      "fourchette_90": [
-      7,
+      8,
       28
      ]
     },
@@ -3436,9 +3436,9 @@
    "gouverneur": {
     "favori": "ALLYSON",
     "parti": "UNIÃO",
-    "chances": 0.934,
-    "elu_1er_tour": 0.287,
-    "second_tour": 0.71,
+    "chances": 0.933,
+    "elu_1er_tour": 0.292,
+    "second_tour": 0.706,
     "rival": "ÁLVARO DIAS",
     "parti_rival": "PL"
    },
@@ -3446,27 +3446,27 @@
     {
      "candidat": "STYVENSON VALENTIM",
      "parti": "PODE",
-     "chances": 0.898
+     "chances": 0.9
     },
     {
      "candidat": "ZENAIDE MAIA",
      "parti": "PSD",
-     "chances": 0.684
+     "chances": 0.681
     },
     {
      "candidat": "SAMANDA DE LULA",
      "parti": "PT",
-     "chances": 0.173
+     "chances": 0.169
     },
     {
      "candidat": "RAFAEL MOTTA",
      "parti": "PDT",
-     "chances": 0.129
+     "chances": 0.126
     },
     {
      "candidat": "CORONEL HÉLIO",
      "parti": "PL",
-     "chances": 0.117
+     "chances": 0.124
     }
    ],
    "chambre": {
@@ -3648,7 +3648,7 @@
      ]
     },
     "PL": {
-     "sieges": 3,
+     "sieges": 4,
      "fourchette_90": [
       1,
       7
@@ -4115,7 +4115,7 @@
     "MDB": {
      "sieges": 2,
      "fourchette_90": [
-      1,
+      0,
       4
      ]
     },
@@ -4502,7 +4502,7 @@
      "sieges": 17,
      "fourchette_90": [
       8,
-      29
+      30
      ]
     },
     "PODE": {
@@ -4544,7 +4544,7 @@
      "sieges": 5,
      "fourchette_90": [
       2,
-      11
+      10
      ]
     },
     "MISSÃO": {
@@ -4641,7 +4641,7 @@
      ]
     },
     "REPUBLICANOS": {
-     "sieges": 9,
+     "sieges": 8,
      "fourchette_90": [
       4,
       18
@@ -4810,23 +4810,23 @@
  "national": {
   "chambre": {
    "UNIÃO PROGRESSISTA": {
-    "sieges_attendus": 106.3,
+    "sieges_attendus": 106.2,
     "fourchette_90": [
      64,
      156
     ],
-    "premiere_force": 0.558
+    "premiere_force": 0.555
    },
    "PL": {
-    "sieges_attendus": 88.3,
+    "sieges_attendus": 88.6,
     "fourchette_90": [
      50,
      135
     ],
-    "premiere_force": 0.273
+    "premiere_force": 0.276
    },
    "FE BRASIL": {
-    "sieges_attendus": 74.9,
+    "sieges_attendus": 75.1,
     "fourchette_90": [
      40,
      118
@@ -4834,7 +4834,7 @@
     "premiere_force": 0.148
    },
    "REPUBLICANOS": {
-    "sieges_attendus": 50.4,
+    "sieges_attendus": 50.3,
     "fourchette_90": [
      25,
      82
@@ -4842,7 +4842,7 @@
     "premiere_force": 0.015
    },
    "PSD": {
-    "sieges_attendus": 43.1,
+    "sieges_attendus": 43.0,
     "fourchette_90": [
      21,
      71
@@ -4850,7 +4850,7 @@
     "premiere_force": 0.004
    },
    "MDB": {
-    "sieges_attendus": 36.5,
+    "sieges_attendus": 36.4,
     "fourchette_90": [
      17,
      60
@@ -4858,7 +4858,7 @@
     "premiere_force": 0.001
    },
    "PODE": {
-    "sieges_attendus": 30.1,
+    "sieges_attendus": 30.0,
     "fourchette_90": [
      13,
      52
@@ -4874,7 +4874,7 @@
     "premiere_force": 0
    },
    "PSDB CIDADANIA": {
-    "sieges_attendus": 16.4,
+    "sieges_attendus": 16.3,
     "fourchette_90": [
      7,
      30
@@ -4893,7 +4893,7 @@
     "sieges_attendus": 14.1,
     "fourchette_90": [
      5,
-     27
+     26
     ],
     "premiere_force": 0
    },
@@ -4932,31 +4932,31 @@
   },
   "assemblees": {
    "UNIÃO PROGRESSISTA": {
-    "sieges_attendus": 192.3,
+    "sieges_attendus": 192.2,
     "fourchette_90": [
      120,
-     281
+     280
     ],
-    "premiere_force": 0.547
+    "premiere_force": 0.544
    },
    "FE BRASIL": {
-    "sieges_attendus": 158.1,
+    "sieges_attendus": 158.2,
     "fourchette_90": [
      94,
-     235
+     236
     ],
-    "premiere_force": 0.239
+    "premiere_force": 0.24
    },
    "PL": {
-    "sieges_attendus": 145.6,
+    "sieges_attendus": 146.0,
     "fourchette_90": [
-     86,
+     87,
      220
     ],
-    "premiere_force": 0.163
+    "premiere_force": 0.165
    },
    "MDB": {
-    "sieges_attendus": 114.2,
+    "sieges_attendus": 114.1,
     "fourchette_90": [
      68,
      169
@@ -4964,7 +4964,7 @@
     "premiere_force": 0.034
    },
    "PSD": {
-    "sieges_attendus": 91.6,
+    "sieges_attendus": 91.5,
     "fourchette_90": [
      51,
      143
@@ -4972,7 +4972,7 @@
     "premiere_force": 0.009
    },
    "REPUBLICANOS": {
-    "sieges_attendus": 88.6,
+    "sieges_attendus": 88.5,
     "fourchette_90": [
      49,
      139
@@ -5023,7 +5023,7 @@
     "sieges_attendus": 25.4,
     "fourchette_90": [
      12,
-     43
+     44
     ],
     "premiere_force": 0
    },
