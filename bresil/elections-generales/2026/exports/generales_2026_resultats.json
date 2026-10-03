@@ -907,7 +907,7 @@
      ]
     },
     "FE BRASIL": {
-     "sieges": 9,
+     "sieges": 10,
      "fourchette_90": [
       4,
       18
@@ -1487,7 +1487,7 @@
      "sieges": 7,
      "fourchette_90": [
       3,
-      14
+      13
      ]
     },
     "NOVO": {
@@ -1765,9 +1765,9 @@
    "gouverneur": {
     "favori": "CLEITINHO AZEVEDO",
     "parti": "REPUBLICANOS",
-    "chances": 0.984,
-    "elu_1er_tour": 0.306,
-    "second_tour": 0.693,
+    "chances": 0.977,
+    "elu_1er_tour": 0.324,
+    "second_tour": 0.676,
     "rival": "PATRUS ANANIAS",
     "parti_rival": "PT"
    },
@@ -2208,7 +2208,7 @@
     "PL": {
      "sieges": 2,
      "fourchette_90": [
-      0,
+      1,
       5
      ]
     },
@@ -2304,9 +2304,9 @@
    "gouverneur": {
     "favori": "DR. DANIEL",
     "parti": "PODE",
-    "chances": 0.484,
-    "elu_1er_tour": 0.407,
-    "second_tour": 0.132,
+    "chances": 0.438,
+    "elu_1er_tour": 0.377,
+    "second_tour": 0.116,
     "rival": "HANA GHASSAN",
     "parti_rival": "MDB"
    },
@@ -2314,27 +2314,27 @@
     {
      "candidat": "HELDER",
      "parti": "MDB",
-     "chances": 0.833
+     "chances": 0.811
     },
     {
      "candidat": "DELEGADO ÉDER MAURO",
      "parti": "PL",
-     "chances": 0.565
+     "chances": 0.561
     },
     {
      "candidat": "CHICÃO",
      "parti": "UNIÃO",
-     "chances": 0.305
+     "chances": 0.313
     },
     {
      "candidat": "ZEQUINHA MARINHO",
      "parti": "PODE",
-     "chances": 0.209
+     "chances": 0.231
     },
     {
      "candidat": "CELSO SABINO",
      "parti": "PDT",
-     "chances": 0.088
+     "chances": 0.084
     }
    ],
    "chambre": {
@@ -3092,7 +3092,7 @@
      ]
     },
     "RENOVAÇÃO SOLIDÁRIA": {
-     "sieges": 2,
+     "sieges": 1,
      "fourchette_90": [
       0,
       4
@@ -3396,7 +3396,7 @@
      ]
     },
     "UNIÃO PROGRESSISTA": {
-     "sieges": 10,
+     "sieges": 9,
      "fourchette_90": [
       4,
       19
@@ -3859,27 +3859,27 @@
     {
      "candidat": "MARCEL VAN HATTEM",
      "parti": "NOVO",
-     "chances": 0.585
+     "chances": 0.599
     },
     {
      "candidat": "MANUELA D ÁVILA",
      "parti": "PSOL",
-     "chances": 0.514
+     "chances": 0.478
     },
     {
      "candidat": "SANDERSON",
      "parti": "PL",
-     "chances": 0.389
+     "chances": 0.445
     },
     {
      "candidat": "PIMENTA",
      "parti": "PT",
-     "chances": 0.301
+     "chances": 0.305
     },
     {
      "candidat": "RIGOTTO",
      "parti": "MDB",
-     "chances": 0.209
+     "chances": 0.172
     }
    ],
    "chambre": {
@@ -4810,20 +4810,20 @@
  "national": {
   "chambre": {
    "UNIÃO PROGRESSISTA": {
-    "sieges_attendus": 106.2,
+    "sieges_attendus": 106.1,
     "fourchette_90": [
      64,
      156
     ],
-    "premiere_force": 0.555
+    "premiere_force": 0.553
    },
    "PL": {
-    "sieges_attendus": 88.6,
+    "sieges_attendus": 88.8,
     "fourchette_90": [
      50,
      135
     ],
-    "premiere_force": 0.276
+    "premiere_force": 0.279
    },
    "FE BRASIL": {
     "sieges_attendus": 75.1,
@@ -4831,10 +4831,10 @@
      40,
      118
     ],
-    "premiere_force": 0.148
+    "premiere_force": 0.147
    },
    "REPUBLICANOS": {
-    "sieges_attendus": 50.3,
+    "sieges_attendus": 50.2,
     "fourchette_90": [
      25,
      82
@@ -4932,12 +4932,12 @@
   },
   "assemblees": {
    "UNIÃO PROGRESSISTA": {
-    "sieges_attendus": 192.2,
+    "sieges_attendus": 192.1,
     "fourchette_90": [
      120,
      280
     ],
-    "premiere_force": 0.544
+    "premiere_force": 0.543
    },
    "FE BRASIL": {
     "sieges_attendus": 158.2,
@@ -4948,12 +4948,12 @@
     "premiere_force": 0.24
    },
    "PL": {
-    "sieges_attendus": 146.0,
+    "sieges_attendus": 146.2,
     "fourchette_90": [
      87,
      220
     ],
-    "premiere_force": 0.165
+    "premiere_force": 0.166
    },
    "MDB": {
     "sieges_attendus": 114.1,
@@ -4961,7 +4961,7 @@
      68,
      169
     ],
-    "premiere_force": 0.034
+    "premiere_force": 0.033
    },
    "PSD": {
     "sieges_attendus": 91.5,
