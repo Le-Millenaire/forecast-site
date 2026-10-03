@@ -79,6 +79,16 @@
 "gov_d": 20.478,
 "gb_margin": 7.355,
 "source": "daily"
+},
+{
+"date": "2026-10-03",
+"house_p_d": 0.94789,
+"house_seats_d": 239.397,
+"senate_p_dpi": 0.57263,
+"senate_seats_dpi": 50.904,
+"gov_d": 20.478,
+"gb_margin": 7.355,
+"source": "daily"
 }
 ]
 }
