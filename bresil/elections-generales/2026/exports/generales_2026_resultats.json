@@ -5,9 +5,9 @@
    "gouverneur": {
     "favori": "MAILZA ASSIS",
     "parti": "PP",
-    "chances": 0.502,
-    "elu_1er_tour": 0.179,
-    "second_tour": 0.757,
+    "chances": 0.501,
+    "elu_1er_tour": 0.175,
+    "second_tour": 0.775,
     "rival": "ALAN RICK",
     "parti_rival": "REPUBLICANOS"
    },
@@ -801,22 +801,22 @@
     {
      "candidat": "CID GOMES",
      "parti": "PSB",
-     "chances": 0.738
-    },
-    {
-     "candidat": "CAPITÃO WAGNER",
-     "parti": "UNIÃO",
-     "chances": 0.546
+     "chances": 0.743
     },
     {
      "candidat": "LUIZIANNE",
      "parti": "REDE",
-     "chances": 0.518
+     "chances": 0.541
+    },
+    {
+     "candidat": "CAPITÃO WAGNER",
+     "parti": "UNIÃO",
+     "chances": 0.53
     },
     {
      "candidat": "ALCIDES FERNANDES",
      "parti": "PL",
-     "chances": 0.198
+     "chances": 0.186
     }
    ],
    "chambre": {
@@ -2498,9 +2498,9 @@
    "gouverneur": {
     "favori": "LUCAS RIBEIRO",
     "parti": "PP",
-    "chances": 0.999,
-    "elu_1er_tour": 0.979,
-    "second_tour": 0.021,
+    "chances": 0.998,
+    "elu_1er_tour": 0.954,
+    "second_tour": 0.046,
     "rival": "EFRAIM FILHO",
     "parti_rival": "PL"
    },
@@ -3436,9 +3436,9 @@
    "gouverneur": {
     "favori": "ALLYSON",
     "parti": "UNIÃO",
-    "chances": 0.933,
-    "elu_1er_tour": 0.292,
-    "second_tour": 0.706,
+    "chances": 0.929,
+    "elu_1er_tour": 0.259,
+    "second_tour": 0.74,
     "rival": "ÁLVARO DIAS",
     "parti_rival": "PL"
    },
@@ -3548,9 +3548,9 @@
    "gouverneur": {
     "favori": "MARCOS ROGÉRIO",
     "parti": "PL",
-    "chances": 0.913,
-    "elu_1er_tour": 0.251,
-    "second_tour": 0.749,
+    "chances": 0.919,
+    "elu_1er_tour": 0.356,
+    "second_tour": 0.644,
     "rival": "ADAILTON FURIA",
     "parti_rival": "PSD"
    },
@@ -4654,8 +4654,8 @@
     "favori": "PROFESSORA DORINHA",
     "parti": "UNIÃO",
     "chances": 1.0,
-    "elu_1er_tour": 0.956,
-    "second_tour": 0.044,
+    "elu_1er_tour": 0.842,
+    "second_tour": 0.158,
     "rival": "LAUREZ MOREIRA",
     "parti_rival": "PSD"
    },
