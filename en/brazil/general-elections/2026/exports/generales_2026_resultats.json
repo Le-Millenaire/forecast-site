@@ -174,22 +174,22 @@
     {
      "candidat": "ARTHUR LIRA",
      "parti": "PP",
-     "chances": 0.669
+     "chances": 0.671
     },
     {
      "candidat": "MARINA JHC",
      "parti": "PSDB",
-     "chances": 0.647
+     "chances": 0.663
     },
     {
      "candidat": "RENAN",
      "parti": "MDB",
-     "chances": 0.529
+     "chances": 0.531
     },
     {
      "candidat": "DAVI DAVINO FILHO",
      "parti": "REPUBLICANOS",
-     "chances": 0.141
+     "chances": 0.121
     },
     {
      "candidat": "DR. WANDERLEY",
@@ -2851,8 +2851,8 @@
     "favori": "RAFAEL FONTELES",
     "parti": "PT",
     "chances": 0.997,
-    "elu_1er_tour": 0.961,
-    "second_tour": 0.039,
+    "elu_1er_tour": 0.963,
+    "second_tour": 0.037,
     "rival": "JOEL RODRIGUES",
     "parti_rival": "PP"
    },
@@ -2860,22 +2860,22 @@
     {
      "candidat": "MARCELO CASTRO",
      "parti": "MDB",
-     "chances": 0.787
+     "chances": 0.774
     },
     {
      "candidat": "JÚLIO CÉSAR O JULIM DO LULA",
      "parti": "PSD",
-     "chances": 0.595
+     "chances": 0.599
     },
     {
      "candidat": "CIRO NOGUEIRA",
      "parti": "PP",
-     "chances": 0.57
+     "chances": 0.586
     },
     {
      "candidat": "TIAGO JUNQUEIRA",
      "parti": "PL",
-     "chances": 0.048
+     "chances": 0.041
     }
    ],
    "chambre": {
@@ -4668,32 +4668,32 @@
     {
      "candidat": "ALEXANDRE GUIMARÃES",
      "parti": "MDB",
-     "chances": 0.45
+     "chances": 0.439
     },
     {
      "candidat": "GAGUIM",
      "parti": "UNIÃO",
-     "chances": 0.376
+     "chances": 0.42
     },
     {
      "candidat": "ELI BORGES",
      "parti": "REPUBLICANOS",
-     "chances": 0.168
+     "chances": 0.16
     },
     {
      "candidat": "PAULO MOURÃO",
      "parti": "PT",
-     "chances": 0.099
+     "chances": 0.094
     },
     {
      "candidat": "VANDERLEI LUXEMBURGO",
      "parti": "PODE",
-     "chances": 0.071
+     "chances": 0.056
     },
     {
      "candidat": "RONALDO DIMAS",
      "parti": "PODE",
-     "chances": 0.047
+     "chances": 0.041
     }
    ],
    "chambre": {
