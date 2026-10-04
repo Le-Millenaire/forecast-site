@@ -791,9 +791,9 @@
    "gouverneur": {
     "favori": "CIRO GOMES",
     "parti": "PSDB",
-    "chances": 0.551,
-    "elu_1er_tour": 0.476,
-    "second_tour": 0.122,
+    "chances": 0.533,
+    "elu_1er_tour": 0.448,
+    "second_tour": 0.134,
     "rival": "ELMANO DE FREITAS",
     "parti_rival": "PT"
    },
@@ -983,8 +983,8 @@
     "favori": "CELINA LEÃO",
     "parti": "PP",
     "chances": 0.939,
-    "elu_1er_tour": 0.246,
-    "second_tour": 0.754,
+    "elu_1er_tour": 0.245,
+    "second_tour": 0.755,
     "rival": "ARRUDA",
     "parti_rival": "PSD"
    },
@@ -992,22 +992,22 @@
     {
      "candidat": "MICHELLE BOLSONARO",
      "parti": "PL",
-     "chances": 0.787
+     "chances": 0.785
     },
     {
      "candidat": "LEILA DO VÔLEI",
      "parti": "PDT",
-     "chances": 0.512
+     "chances": 0.504
     },
     {
      "candidat": "BIA KICIS",
      "parti": "PL",
-     "chances": 0.423
+     "chances": 0.436
     },
     {
      "candidat": "ERIKA KOKAY",
      "parti": "PT",
-     "chances": 0.27
+     "chances": 0.269
     }
    ],
    "chambre": {
@@ -2643,27 +2643,27 @@
     {
      "candidat": "MARÍLIA ARRAES",
      "parti": "PDT",
-     "chances": 0.818
+     "chances": 0.815
     },
     {
      "candidat": "HUMBERTO COSTA",
      "parti": "PT",
-     "chances": 0.667
+     "chances": 0.683
     },
     {
      "candidat": "MENDONÇA FILHO",
      "parti": "PL",
-     "chances": 0.325
+     "chances": 0.314
     },
     {
      "candidat": "EDUARDO DA FONTE",
      "parti": "PP",
-     "chances": 0.171
+     "chances": 0.169
     },
     {
      "candidat": "TÚLIO GADÊLHA",
      "parti": "PSD",
-     "chances": 0.019
+     "chances": 0.018
     }
    ],
    "chambre": {
