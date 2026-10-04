@@ -983,8 +983,8 @@
     "favori": "CELINA LEÃO",
     "parti": "PP",
     "chances": 0.939,
-    "elu_1er_tour": 0.248,
-    "second_tour": 0.752,
+    "elu_1er_tour": 0.246,
+    "second_tour": 0.754,
     "rival": "ARRUDA",
     "parti_rival": "PSD"
    },
@@ -992,22 +992,22 @@
     {
      "candidat": "MICHELLE BOLSONARO",
      "parti": "PL",
-     "chances": 0.79
+     "chances": 0.787
     },
     {
      "candidat": "LEILA DO VÔLEI",
      "parti": "PDT",
-     "chances": 0.499
+     "chances": 0.512
     },
     {
      "candidat": "BIA KICIS",
      "parti": "PL",
-     "chances": 0.419
+     "chances": 0.423
     },
     {
      "candidat": "ERIKA KOKAY",
      "parti": "PT",
-     "chances": 0.284
+     "chances": 0.27
     }
    ],
    "chambre": {
@@ -1775,32 +1775,37 @@
     {
      "candidat": "MARÍLIA CAMPOS",
      "parti": "PT",
-     "chances": 0.624
+     "chances": 0.595
     },
     {
      "candidat": "CARLOS VIANA",
      "parti": "PSD",
-     "chances": 0.486
+     "chances": 0.477
     },
     {
      "candidat": "DOMINGOS SÁVIO",
      "parti": "PL",
-     "chances": 0.399
+     "chances": 0.434
     },
     {
      "candidat": "AÉCIO NEVES",
      "parti": "PSDB",
-     "chances": 0.326
+     "chances": 0.338
     },
     {
      "candidat": "MARCELO ARO",
      "parti": "PP",
-     "chances": 0.126
+     "chances": 0.114
     },
     {
      "candidat": "ÁUREA CAROLINA",
      "parti": "PSOL",
-     "chances": 0.033
+     "chances": 0.028
+    },
+    {
+     "candidat": "MARCO ANTÔNIO SUPERMAN",
+     "parti": "NOVO",
+     "chances": 0.014
     }
    ],
    "chambre": {
@@ -2628,9 +2633,9 @@
    "gouverneur": {
     "favori": "RAQUEL LYRA",
     "parti": "PSD",
-    "chances": 0.713,
-    "elu_1er_tour": 0.515,
-    "second_tour": 0.406,
+    "chances": 0.717,
+    "elu_1er_tour": 0.531,
+    "second_tour": 0.387,
     "rival": "JOÃO CAMPOS",
     "parti_rival": "PSB"
    },
@@ -2638,27 +2643,27 @@
     {
      "candidat": "MARÍLIA ARRAES",
      "parti": "PDT",
-     "chances": 0.815
+     "chances": 0.818
     },
     {
      "candidat": "HUMBERTO COSTA",
      "parti": "PT",
-     "chances": 0.656
+     "chances": 0.667
     },
     {
      "candidat": "MENDONÇA FILHO",
      "parti": "PL",
-     "chances": 0.334
+     "chances": 0.325
     },
     {
      "candidat": "EDUARDO DA FONTE",
      "parti": "PP",
-     "chances": 0.175
+     "chances": 0.171
     },
     {
      "candidat": "TÚLIO GADÊLHA",
      "parti": "PSD",
-     "chances": 0.02
+     "chances": 0.019
     }
    ],
    "chambre": {
@@ -4410,9 +4415,9 @@
    "gouverneur": {
     "favori": "TARCÍSIO",
     "parti": "REPUBLICANOS",
-    "chances": 0.962,
-    "elu_1er_tour": 0.785,
-    "second_tour": 0.201,
+    "chances": 0.963,
+    "elu_1er_tour": 0.792,
+    "second_tour": 0.196,
     "rival": "FERNANDO HADDAD",
     "parti_rival": "PT"
    },
