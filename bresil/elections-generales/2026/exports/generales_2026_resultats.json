@@ -1368,32 +1368,32 @@
     {
      "candidat": "GRACINHA CAIADO",
      "parti": "UNIÃO",
-     "chances": 0.795
+     "chances": 0.815
     },
     {
      "candidat": "GUSTAVO GAYER",
      "parti": "PL",
-     "chances": 0.644
+     "chances": 0.631
     },
     {
      "candidat": "DR. ZACHARIAS CALIL",
      "parti": "MDB",
-     "chances": 0.325
+     "chances": 0.343
     },
     {
      "candidat": "GUSTAVO MENDANHA",
      "parti": "PRD",
-     "chances": 0.129
+     "chances": 0.11
     },
     {
      "candidat": "VANDERLAN CARDOSO",
      "parti": "PSD",
-     "chances": 0.077
+     "chances": 0.075
     },
     {
      "candidat": "CINTIA DIAS",
      "parti": "PSOL",
-     "chances": 0.018
+     "chances": 0.013
     }
    ],
    "chambre": {
@@ -2172,27 +2172,27 @@
     {
      "candidat": "MAURO MENDES",
      "parti": "UNIÃO",
-     "chances": 0.908
+     "chances": 0.916
     },
     {
      "candidat": "JANAINA RIVA",
      "parti": "MDB",
-     "chances": 0.625
+     "chances": 0.629
     },
     {
      "candidat": "ZÉ MEDEIROS",
      "parti": "PL",
-     "chances": 0.323
+     "chances": 0.326
     },
     {
      "candidat": "FÁVARO",
      "parti": "PSD",
-     "chances": 0.089
+     "chances": 0.077
     },
     {
      "candidat": "PEDRO TAQUES",
      "parti": "PSB",
-     "chances": 0.054
+     "chances": 0.051
     }
    ],
    "chambre": {
@@ -3446,27 +3446,27 @@
     {
      "candidat": "STYVENSON VALENTIM",
      "parti": "PODE",
-     "chances": 0.897
+     "chances": 0.879
     },
     {
      "candidat": "ZENAIDE MAIA",
      "parti": "PSD",
-     "chances": 0.687
+     "chances": 0.63
     },
     {
      "candidat": "SAMANDA DE LULA",
      "parti": "PT",
-     "chances": 0.167
-    },
-    {
-     "candidat": "RAFAEL MOTTA",
-     "parti": "PDT",
-     "chances": 0.129
+     "chances": 0.197
     },
     {
      "candidat": "CORONEL HÉLIO",
      "parti": "PL",
-     "chances": 0.119
+     "chances": 0.172
+    },
+    {
+     "candidat": "RAFAEL MOTTA",
+     "parti": "PDT",
+     "chances": 0.121
     }
    ],
    "chambre": {
