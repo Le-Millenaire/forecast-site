@@ -164,9 +164,9 @@
    "gouverneur": {
     "favori": "JHC",
     "parti": "PSDB",
-    "chances": 0.649,
-    "elu_1er_tour": 0.593,
-    "second_tour": 0.114,
+    "chances": 0.629,
+    "elu_1er_tour": 0.569,
+    "second_tour": 0.118,
     "rival": "RENAN FILHO",
     "parti_rival": "MDB"
    },
@@ -283,9 +283,9 @@
    "gouverneur": {
     "favori": "OMAR AZIZ",
     "parti": "PSD",
-    "chances": 0.743,
-    "elu_1er_tour": 0.029,
-    "second_tour": 0.97,
+    "chances": 0.744,
+    "elu_1er_tour": 0.045,
+    "second_tour": 0.955,
     "rival": "ROBERTO CIDADE",
     "parti_rival": "UNIÃO"
    },
@@ -439,9 +439,9 @@
    "gouverneur": {
     "favori": "DR. FURLAN",
     "parti": "PSD",
-    "chances": 0.977,
-    "elu_1er_tour": 0.892,
-    "second_tour": 0.093,
+    "chances": 0.9,
+    "elu_1er_tour": 0.799,
+    "second_tour": 0.109,
     "rival": "CLÉCIO",
     "parti_rival": "UNIÃO"
    },
@@ -593,9 +593,9 @@
    "gouverneur": {
     "favori": "ACM NETO",
     "parti": "UNIÃO",
-    "chances": 0.564,
-    "elu_1er_tour": 0.419,
-    "second_tour": 0.248,
+    "chances": 0.529,
+    "elu_1er_tour": 0.391,
+    "second_tour": 0.233,
     "rival": "JERÔNIMO RODRIGUES",
     "parti_rival": "PT"
    },
@@ -791,9 +791,9 @@
    "gouverneur": {
     "favori": "CIRO GOMES",
     "parti": "PSDB",
-    "chances": 0.533,
-    "elu_1er_tour": 0.448,
-    "second_tour": 0.134,
+    "chances": 0.521,
+    "elu_1er_tour": 0.445,
+    "second_tour": 0.121,
     "rival": "ELMANO DE FREITAS",
     "parti_rival": "PT"
    },
@@ -1166,9 +1166,9 @@
    "gouverneur": {
     "favori": "RICARDO FERRAÇO",
     "parti": "MDB",
-    "chances": 0.681,
-    "elu_1er_tour": 0.184,
-    "second_tour": 0.727,
+    "chances": 0.665,
+    "elu_1er_tour": 0.158,
+    "second_tour": 0.726,
     "rival": "LORENZO PAZOLINI",
     "parti_rival": "REPUBLICANOS"
    },
@@ -1358,11 +1358,11 @@
    "gouverneur": {
     "favori": "DANIEL VILELA",
     "parti": "MDB",
-    "chances": 0.996,
-    "elu_1er_tour": 0.359,
-    "second_tour": 0.636,
-    "rival": "MARCONI PERILLO",
-    "parti_rival": "PSDB"
+    "chances": 0.997,
+    "elu_1er_tour": 0.429,
+    "second_tour": 0.571,
+    "rival": "WILDER MORAIS",
+    "parti_rival": "PL"
    },
    "senat": [
     {
@@ -1573,9 +1573,9 @@
    "gouverneur": {
     "favori": "EDUARDO BRAIDE",
     "parti": "PSD",
-    "chances": 0.867,
-    "elu_1er_tour": 0.157,
-    "second_tour": 0.722,
+    "chances": 0.9,
+    "elu_1er_tour": 0.166,
+    "second_tour": 0.748,
     "rival": "ORLEANS BRANDÃO",
     "parti_rival": "MDB"
    },
@@ -1765,9 +1765,9 @@
    "gouverneur": {
     "favori": "CLEITINHO AZEVEDO",
     "parti": "REPUBLICANOS",
-    "chances": 0.977,
-    "elu_1er_tour": 0.323,
-    "second_tour": 0.677,
+    "chances": 0.978,
+    "elu_1er_tour": 0.367,
+    "second_tour": 0.633,
     "rival": "PATRUS ANANIAS",
     "parti_rival": "PT"
    },
@@ -2028,8 +2028,8 @@
     "favori": "EDUARDO RIEDEL",
     "parti": "PP",
     "chances": 0.999,
-    "elu_1er_tour": 0.771,
-    "second_tour": 0.229,
+    "elu_1er_tour": 0.835,
+    "second_tour": 0.165,
     "rival": "FÁBIO TRAD",
     "parti_rival": "PT"
    },
@@ -2162,9 +2162,9 @@
    "gouverneur": {
     "favori": "OTAVIANO PIVETTA",
     "parti": "REPUBLICANOS",
-    "chances": 0.779,
-    "elu_1er_tour": 0.266,
-    "second_tour": 0.709,
+    "chances": 0.8,
+    "elu_1er_tour": 0.357,
+    "second_tour": 0.623,
     "rival": "WELLINGTON FAGUNDES",
     "parti_rival": "PL"
    },
@@ -2957,9 +2957,9 @@
    "gouverneur": {
     "favori": "SERGIO MORO",
     "parti": "PL",
-    "chances": 0.893,
-    "elu_1er_tour": 0.325,
-    "second_tour": 0.666,
+    "chances": 0.89,
+    "elu_1er_tour": 0.31,
+    "second_tour": 0.682,
     "rival": "SANDRO ALEX",
     "parti_rival": "PSD"
    },
@@ -3710,8 +3710,8 @@
     "favori": "ARTHUR HENRIQUE",
     "parti": "PL",
     "chances": 0.996,
-    "elu_1er_tour": 0.685,
-    "second_tour": 0.313,
+    "elu_1er_tour": 0.691,
+    "second_tour": 0.308,
     "rival": "SOLDADO SAMPAIO",
     "parti_rival": "REPUBLICANOS"
    },
@@ -4067,8 +4067,8 @@
     "favori": "JORGINHO MELLO",
     "parti": "PL",
     "chances": 0.999,
-    "elu_1er_tour": 0.792,
-    "second_tour": 0.208,
+    "elu_1er_tour": 0.822,
+    "second_tour": 0.178,
     "rival": "JOÃO RODRIGUES",
     "parti_rival": "PSD"
    },
@@ -4260,9 +4260,9 @@
    "gouverneur": {
     "favori": "FÁBIO",
     "parti": "PSD",
-    "chances": 0.817,
-    "elu_1er_tour": 0.461,
-    "second_tour": 0.46,
+    "chances": 0.819,
+    "elu_1er_tour": 0.459,
+    "second_tour": 0.464,
     "rival": "VALMIR DE FRANCISQUINHO",
     "parti_rival": "REPUBLICANOS"
    },
